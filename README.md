@@ -46,9 +46,12 @@ TECHNEXT PTE. LTD., UEN 202699888G, 261 Waterloo Street #03-36, Waterloo Centre,
 **"ISO 27001 (in progress)" keeps its qualifier** — TechNext is not certified, and dropping the
 parenthesis would be a false claim.
 
-**Unresolved:** the site says "Certified Odoo Partner" while the badge asset says "Odoo Ready
-Partner". Email 01 uses the site's wording. Confirm the actual tier before using it anywhere
-contractual.
+**Resolved 2026-08-12:** Odoo's own partner directory lists
+[TECHNEXT PTE. LTD](https://www.odoo.com/partners/technext-pte-ltd-28073844) as an
+**"Odoo Ready Partner"**. Odoo's company tiers are only Ready / Silver / Gold — "Certified Partner"
+is not a tier ("certified" refers to individual employee exams). Email 01 now says
+**Odoo Ready Partner**, matching the badge asset and the directory.
+**Still to do outside this repo:** technext.asia itself says "Certified Odoo Partner".
 
 ## Before sending
 
