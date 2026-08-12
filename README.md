@@ -14,7 +14,7 @@ Three production-ready HTML email campaigns for TechNext, plus a preview hub tha
 | `emails/02-odoo-erp.html` | Odoo ERP campaign with the Singapore InvoiceNow angle |
 | `emails/03-newsletter-monthly.html` | Monthly "TechNext Insights" newsletter shell |
 | `text/*.txt` | Plain-text alternate for each email — paste into Brevo's plain-text tab |
-| `assets/logo-*.png` | Email-safe logos, pre-flattened onto their background colour |
+| `assets/logo-*.png` | Email-safe logos, pre-flattened onto their background colour: `-white-on-dark` for the #0B1220 top bar, `-blue-on-white` for the footer, `-white-on-blue` spare for a #3167CA header variant |
 
 ## Build rules these follow
 
