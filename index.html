@@ -307,7 +307,13 @@
     <ol>
       <li>Brevo → <b>Campaigns</b> → <code>/campaigns/listing</code> → <b>Create a campaign</b> → Email.
           (The <code>/campaigns/list/email</code> URL is broken in this account — it renders an error page.)</li>
-      <li>Sender: <b>TechNext &lt;hello@technext.asia&gt;</b> — the only verified sender on the account.</li>
+      <li>Sender: <b>TechNext &lt;hello@technextasia.com&gt;</b> — <b>not yet available.</b> Brevo refuses to
+          create a sender on this domain until the domain is authenticated, because
+          <code>technextasia.com</code> is at DMARC <code>p=quarantine</code>
+          (<i>"Your DMARC policy requires your domain to be authenticated before creating a sender"</i>).
+          Add the DNS records first — see <code>00. TechNext Folder\DNS-Email-Authentication-Setup.md</code>.
+          The only currently verified sender is <code>hello@technext.asia</code>, which is not the domain
+          we send from.</li>
       <li>Subject + preheader: copy them from the campaign card above. Brevo calls the preheader
           "preview text".</li>
       <li>Design → <b>Paste your code</b> → clear the box → paste the HTML from <b>Copy HTML</b>.
