@@ -31,6 +31,10 @@
     .h2        { font-size:20px !important; line-height:26px !important; }
     .btn       { width:100% !important; }
     .btn a     { display:block !important; text-align:center !important; }
+    /* CTA pair collapses to two full-width stacked buttons */
+    .btngrp    { width:100% !important; }
+    .btnc      { display:block !important; width:100% !important; padding:0 0 12px 0 !important; }
+    .btnc-l    { display:block !important; width:100% !important; padding:0 !important; }
     .mod       { padding-right:0 !important; padding-left:0 !important; }
   }
 </style>
@@ -71,17 +75,38 @@
 
     <p style="margin:0 0 28px 0;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:16px;line-height:25px;color:#DCE7FA;mso-line-height-rule:exactly;">A quote, the stock it commits, the invoice it becomes and the payment that closes it should be one record — not four files owned by four people. That is what Odoo does, and configuring it around your real workflow is what we do.</p>
 
-    <table role="presentation" cellpadding="0" cellspacing="0" border="0" class="btn">
-      <tr><td align="center" bgcolor="#ffffff" style="background-color:#ffffff;">
-        <!--[if mso]>
-        <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.odoo.com/book/c82cf8a9" style="height:48px;v-text-anchor:middle;width:250px;" arcsize="0%" stroke="f" fillcolor="#ffffff">
-          <w:anchorlock/><center style="color:#1F4A9C;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Book a demo with your data</center>
-        </v:roundrect>
-        <![endif]-->
-        <!--[if !mso]><!-->
-        <a href="https://technext.odoo.com/book/c82cf8a9?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=odoo_erp&amp;utm_content=hero_cta" style="display:inline-block;padding:15px 30px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#1F4A9C;text-decoration:none;">Book a demo with your data&nbsp;&rarr;</a>
-        <!--<![endif]-->
-      </td></tr>
+    <!-- CTA PAIR — Odoo appointment (primary) + website (secondary), centred -->
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btngrp" style="margin:0 auto;">
+      <tr>
+        <td class="btnc" align="center" valign="top" style="padding:0 5px 0 0;">
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn" style="margin:0 auto;">
+            <tr><td align="center" bgcolor="#ffffff" style="background-color:#ffffff;">
+              <!--[if mso]>
+              <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.odoo.com/book/c82cf8a9" style="height:48px;v-text-anchor:middle;width:250px;" arcsize="0%" stroke="f" fillcolor="#ffffff">
+                <w:anchorlock/><center style="color:#1F4A9C;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Book a demo with your data</center>
+              </v:roundrect>
+              <![endif]-->
+              <!--[if !mso]><!-->
+              <a href="https://technext.odoo.com/book/c82cf8a9?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=odoo_erp&amp;utm_content=hero_cta_appointment" style="display:inline-block;padding:15px 30px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#1F4A9C;text-decoration:none;">Book a demo with your data&nbsp;&rarr;</a>
+              <!--<![endif]-->
+            </td></tr>
+          </table>
+        </td>
+        <td class="btnc-l" align="center" valign="top" style="padding:0 0 0 5px;">
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn" style="margin:0 auto;">
+            <tr><td align="center" bgcolor="#3167CA" style="background-color:#3167CA;border:1px solid #FFFFFF;">
+              <!--[if mso]>
+              <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.asia/" style="height:48px;v-text-anchor:middle;width:186px;" arcsize="0%" strokecolor="#FFFFFF" strokeweight="1px" fillcolor="#3167CA">
+                <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Visit our website</center>
+              </v:roundrect>
+              <![endif]-->
+              <!--[if !mso]><!-->
+              <a href="https://technext.asia/?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=odoo_erp&amp;utm_content=hero_cta_website" style="display:inline-block;padding:14px 26px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#ffffff;text-decoration:none;">Visit our website&nbsp;&rarr;</a>
+              <!--<![endif]-->
+            </td></tr>
+          </table>
+        </td>
+      </tr>
     </table>
 
     <p style="margin:14px 0 0 0;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;color:#AFC9F4;mso-line-height-rule:exactly;">We configure the demo with your own products and pricing before we meet.</p>
@@ -216,17 +241,38 @@
         <h2 class="h2" style="margin:0 0 10px 0;font-size:21px;line-height:28px;font-weight:bold;color:#ffffff;mso-line-height-rule:exactly;">See it with your own products in it.</h2>
         <p style="margin:0 0 22px 0;font-size:14px;line-height:22px;color:#A8B2C4;">Send us a price list and a sample quote. We will load them into Odoo and walk you through your own process — not a generic sandbox with fictional bicycles.</p>
 
-        <table role="presentation" cellpadding="0" cellspacing="0" border="0" class="btn">
-          <tr><td align="center" bgcolor="#3167CA" style="background-color:#3167CA;">
-            <!--[if mso]>
-            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.odoo.com/book/c82cf8a9" style="height:48px;v-text-anchor:middle;width:214px;" arcsize="0%" stroke="f" fillcolor="#3167CA">
-              <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Book an Odoo demo</center>
-            </v:roundrect>
-            <![endif]-->
-            <!--[if !mso]><!-->
-            <a href="https://technext.odoo.com/book/c82cf8a9?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=odoo_erp&amp;utm_content=footer_cta" style="display:inline-block;padding:15px 28px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#ffffff;text-decoration:none;">Book an Odoo demo&nbsp;&rarr;</a>
-            <!--<![endif]-->
-          </td></tr>
+        <!-- CTA PAIR — Odoo appointment (primary) + website (secondary), centred -->
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btngrp" style="margin:0 auto;">
+          <tr>
+            <td class="btnc" align="center" valign="top" style="padding:0 5px 0 0;">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn" style="margin:0 auto;">
+                <tr><td align="center" bgcolor="#3167CA" style="background-color:#3167CA;">
+                  <!--[if mso]>
+                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.odoo.com/book/c82cf8a9" style="height:48px;v-text-anchor:middle;width:214px;" arcsize="0%" stroke="f" fillcolor="#3167CA">
+                    <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Book an Odoo demo</center>
+                  </v:roundrect>
+                  <![endif]-->
+                  <!--[if !mso]><!-->
+                  <a href="https://technext.odoo.com/book/c82cf8a9?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=odoo_erp&amp;utm_content=footer_cta_appointment" style="display:inline-block;padding:15px 28px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#ffffff;text-decoration:none;">Book an Odoo demo&nbsp;&rarr;</a>
+                  <!--<![endif]-->
+                </td></tr>
+              </table>
+            </td>
+            <td class="btnc-l" align="center" valign="top" style="padding:0 0 0 5px;">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn" style="margin:0 auto;">
+                <tr><td align="center" bgcolor="#0B1220" style="background-color:#0B1220;border:1px solid #3F4F6B;">
+                  <!--[if mso]>
+                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.asia/" style="height:48px;v-text-anchor:middle;width:186px;" arcsize="0%" strokecolor="#3F4F6B" strokeweight="1px" fillcolor="#0B1220">
+                    <w:anchorlock/><center style="color:#DCE7FA;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Visit our website</center>
+                  </v:roundrect>
+                  <![endif]-->
+                  <!--[if !mso]><!-->
+                  <a href="https://technext.asia/?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=odoo_erp&amp;utm_content=footer_cta_website" style="display:inline-block;padding:14px 26px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#DCE7FA;text-decoration:none;">Visit our website&nbsp;&rarr;</a>
+                  <!--<![endif]-->
+                </td></tr>
+              </table>
+            </td>
+          </tr>
         </table>
 
         <p style="margin:18px 0 0 0;font-size:13px;line-height:20px;color:#8A93A5;">Questions first? <a class="lnk" href="https://wa.me/6588396998" style="color:#7FB0FF;text-decoration:none;">WhatsApp us</a> or reply to this email.</p>

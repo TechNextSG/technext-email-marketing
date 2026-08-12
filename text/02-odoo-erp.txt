@@ -9,6 +9,9 @@ workflow is what we do.
 Book a demo with your data (we load your products and pricing first):
 https://technext.odoo.com/book/c82cf8a9
 
+Visit our website:
+https://technext.asia/
+
 
 THREE SIGNS YOUR BUSINESS HAS OUTGROWN ITS TOOLS
 
@@ -82,6 +85,7 @@ and walk you through your own process, not a generic sandbox with
 fictional bicycles.
 
 Book an Odoo demo: https://technext.odoo.com/book/c82cf8a9
+Visit our website: https://technext.asia/
 WhatsApp: https://wa.me/6588396998
 Or reply to this email.
 

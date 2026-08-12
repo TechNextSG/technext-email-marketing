@@ -32,6 +32,10 @@
     .h2        { font-size:20px !important; line-height:26px !important; }
     .btn       { width:100% !important; }
     .btn a     { display:block !important; text-align:center !important; }
+    /* CTA pair collapses to two full-width stacked buttons */
+    .btngrp    { width:100% !important; }
+    .btnc      { display:block !important; width:100% !important; padding:0 0 12px 0 !important; }
+    .btnc-l    { display:block !important; width:100% !important; padding:0 !important; }
     .statcell  { display:block !important; width:100% !important; border-left:0 !important; border-top:1px solid #E3E8F0 !important; padding:14px 0 !important; }
   }
 </style>
@@ -73,18 +77,38 @@
 
     <p style="margin:0 0 28px 0;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:16px;line-height:25px;color:#DCE7FA;mso-line-height-rule:exactly;">Every manual task, disconnected system and slow process is costing your business money. We replace them with AI agents, automated workflows and connected ERP — so your team spends its time on growth instead of admin.</p>
 
-    <!-- CTA -->
-    <table role="presentation" cellpadding="0" cellspacing="0" border="0" class="btn">
-      <tr><td align="center" bgcolor="#ffffff" style="background-color:#ffffff;">
-        <!--[if mso]>
-        <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.odoo.com/book/c82cf8a9" style="height:48px;v-text-anchor:middle;width:216px;" arcsize="0%" stroke="f" fillcolor="#ffffff">
-          <w:anchorlock/><center style="color:#1F4A9C;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Book a free demo</center>
-        </v:roundrect>
-        <![endif]-->
-        <!--[if !mso]><!-->
-        <a href="https://technext.odoo.com/book/c82cf8a9?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=intro_service_offer&amp;utm_content=hero_cta" style="display:inline-block;padding:15px 30px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#1F4A9C;text-decoration:none;">Book a free demo&nbsp;&rarr;</a>
-        <!--<![endif]-->
-      </td></tr>
+    <!-- CTA PAIR — Odoo appointment (primary) + website (secondary), centred -->
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btngrp" style="margin:0 auto;">
+      <tr>
+        <td class="btnc" align="center" valign="top" style="padding:0 5px 0 0;">
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn" style="margin:0 auto;">
+            <tr><td align="center" bgcolor="#ffffff" style="background-color:#ffffff;">
+              <!--[if mso]>
+              <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.odoo.com/book/c82cf8a9" style="height:48px;v-text-anchor:middle;width:216px;" arcsize="0%" stroke="f" fillcolor="#ffffff">
+                <w:anchorlock/><center style="color:#1F4A9C;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Book a free demo</center>
+              </v:roundrect>
+              <![endif]-->
+              <!--[if !mso]><!-->
+              <a href="https://technext.odoo.com/book/c82cf8a9?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=intro_service_offer&amp;utm_content=hero_cta_appointment" style="display:inline-block;padding:15px 30px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#1F4A9C;text-decoration:none;">Book a free demo&nbsp;&rarr;</a>
+              <!--<![endif]-->
+            </td></tr>
+          </table>
+        </td>
+        <td class="btnc-l" align="center" valign="top" style="padding:0 0 0 5px;">
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn" style="margin:0 auto;">
+            <tr><td align="center" bgcolor="#3167CA" style="background-color:#3167CA;border:1px solid #FFFFFF;">
+              <!--[if mso]>
+              <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.asia/" style="height:48px;v-text-anchor:middle;width:186px;" arcsize="0%" strokecolor="#FFFFFF" strokeweight="1px" fillcolor="#3167CA">
+                <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Visit our website</center>
+              </v:roundrect>
+              <![endif]-->
+              <!--[if !mso]><!-->
+              <a href="https://technext.asia/?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=intro_service_offer&amp;utm_content=hero_cta_website" style="display:inline-block;padding:14px 26px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#ffffff;text-decoration:none;">Visit our website&nbsp;&rarr;</a>
+              <!--<![endif]-->
+            </td></tr>
+          </table>
+        </td>
+      </tr>
     </table>
 
     <p style="margin:14px 0 0 0;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;color:#AFC9F4;mso-line-height-rule:exactly;">1 hour &middot; Asia/Singapore (UTC+8) &middot; no deck, no obligation</p>
@@ -222,17 +246,38 @@
         <h2 class="h2" style="margin:0 0 10px 0;font-size:21px;line-height:28px;font-weight:bold;color:#ffffff;mso-line-height-rule:exactly;">Bring us one process that runs on copy-paste.</h2>
         <p style="margin:0 0 22px 0;font-size:14px;line-height:22px;color:#A8B2C4;">In one session we will map it, show you what it looks like automated, and tell you honestly whether it is worth doing. If it is not, we will say so.</p>
 
-        <table role="presentation" cellpadding="0" cellspacing="0" border="0" class="btn">
-          <tr><td align="center" bgcolor="#3167CA" style="background-color:#3167CA;">
-            <!--[if mso]>
-            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.odoo.com/book/c82cf8a9" style="height:48px;v-text-anchor:middle;width:238px;" arcsize="0%" stroke="f" fillcolor="#3167CA">
-              <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Book a free strategy call</center>
-            </v:roundrect>
-            <![endif]-->
-            <!--[if !mso]><!-->
-            <a href="https://technext.odoo.com/book/c82cf8a9?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=intro_service_offer&amp;utm_content=footer_cta" style="display:inline-block;padding:15px 28px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#ffffff;text-decoration:none;">Book a free strategy call&nbsp;&rarr;</a>
-            <!--<![endif]-->
-          </td></tr>
+        <!-- CTA PAIR — Odoo appointment (primary) + website (secondary), centred -->
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btngrp" style="margin:0 auto;">
+          <tr>
+            <td class="btnc" align="center" valign="top" style="padding:0 5px 0 0;">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn" style="margin:0 auto;">
+                <tr><td align="center" bgcolor="#3167CA" style="background-color:#3167CA;">
+                  <!--[if mso]>
+                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.odoo.com/book/c82cf8a9" style="height:48px;v-text-anchor:middle;width:238px;" arcsize="0%" stroke="f" fillcolor="#3167CA">
+                    <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Book a free strategy call</center>
+                  </v:roundrect>
+                  <![endif]-->
+                  <!--[if !mso]><!-->
+                  <a href="https://technext.odoo.com/book/c82cf8a9?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=intro_service_offer&amp;utm_content=footer_cta_appointment" style="display:inline-block;padding:15px 28px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#ffffff;text-decoration:none;">Book a free strategy call&nbsp;&rarr;</a>
+                  <!--<![endif]-->
+                </td></tr>
+              </table>
+            </td>
+            <td class="btnc-l" align="center" valign="top" style="padding:0 0 0 5px;">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn" style="margin:0 auto;">
+                <tr><td align="center" bgcolor="#0B1220" style="background-color:#0B1220;border:1px solid #3F4F6B;">
+                  <!--[if mso]>
+                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.asia/" style="height:48px;v-text-anchor:middle;width:186px;" arcsize="0%" strokecolor="#3F4F6B" strokeweight="1px" fillcolor="#0B1220">
+                    <w:anchorlock/><center style="color:#DCE7FA;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Visit our website</center>
+                  </v:roundrect>
+                  <![endif]-->
+                  <!--[if !mso]><!-->
+                  <a href="https://technext.asia/?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=intro_service_offer&amp;utm_content=footer_cta_website" style="display:inline-block;padding:14px 26px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#DCE7FA;text-decoration:none;">Visit our website&nbsp;&rarr;</a>
+                  <!--<![endif]-->
+                </td></tr>
+              </table>
+            </td>
+          </tr>
         </table>
 
         <p style="margin:18px 0 0 0;font-size:13px;line-height:20px;color:#8A93A5;">Prefer to type? <a class="lnk" href="https://wa.me/6588396998" style="color:#7FB0FF;text-decoration:none;">Message us on WhatsApp</a> or simply reply to this email.</p>

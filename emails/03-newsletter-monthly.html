@@ -31,6 +31,10 @@
     .h2        { font-size:19px !important; line-height:25px !important; }
     .btn       { width:100% !important; }
     .btn a     { display:block !important; text-align:center !important; }
+    /* CTA pair collapses to two full-width stacked buttons */
+    .btngrp    { width:100% !important; }
+    .btnc      { display:block !important; width:100% !important; padding:0 0 12px 0 !important; }
+    .btnc-l    { display:block !important; width:100% !important; padding:0 !important; }
     .num       { padding-bottom:6px !important; }
   }
 </style>
@@ -176,17 +180,38 @@
         <h2 class="h2" style="margin:0 0 10px 0;font-size:20px;line-height:27px;font-weight:bold;color:#ffffff;mso-line-height-rule:exactly;">Want the version of this that applies to your business?</h2>
         <p style="margin:0 0 20px 0;font-size:14px;line-height:22px;color:#A8B2C4;">One hour, your workflow, our honest read on what is worth automating and what is not.</p>
 
-        <table role="presentation" cellpadding="0" cellspacing="0" border="0" class="btn">
-          <tr><td align="center" bgcolor="#3167CA" style="background-color:#3167CA;">
-            <!--[if mso]>
-            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.odoo.com/book/c82cf8a9" style="height:46px;v-text-anchor:middle;width:196px;" arcsize="0%" stroke="f" fillcolor="#3167CA">
-              <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Book a free session</center>
-            </v:roundrect>
-            <![endif]-->
-            <!--[if !mso]><!-->
-            <a href="https://technext.odoo.com/book/c82cf8a9?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=insights_2026_08&amp;utm_content=cta" style="display:inline-block;padding:14px 26px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#ffffff;text-decoration:none;">Book a free session&nbsp;&rarr;</a>
-            <!--<![endif]-->
-          </td></tr>
+        <!-- CTA PAIR — Odoo appointment (primary) + website (secondary), centred -->
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btngrp" style="margin:0 auto;">
+          <tr>
+            <td class="btnc" align="center" valign="top" style="padding:0 5px 0 0;">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn" style="margin:0 auto;">
+                <tr><td align="center" bgcolor="#3167CA" style="background-color:#3167CA;">
+                  <!--[if mso]>
+                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.odoo.com/book/c82cf8a9" style="height:46px;v-text-anchor:middle;width:196px;" arcsize="0%" stroke="f" fillcolor="#3167CA">
+                    <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Book a free session</center>
+                  </v:roundrect>
+                  <![endif]-->
+                  <!--[if !mso]><!-->
+                  <a href="https://technext.odoo.com/book/c82cf8a9?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=insights_2026_08&amp;utm_content=cta_appointment" style="display:inline-block;padding:14px 26px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#ffffff;text-decoration:none;">Book a free session&nbsp;&rarr;</a>
+                  <!--<![endif]-->
+                </td></tr>
+              </table>
+            </td>
+            <td class="btnc-l" align="center" valign="top" style="padding:0 0 0 5px;">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn" style="margin:0 auto;">
+                <tr><td align="center" bgcolor="#0B1220" style="background-color:#0B1220;border:1px solid #3F4F6B;">
+                  <!--[if mso]>
+                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://technext.asia/" style="height:46px;v-text-anchor:middle;width:184px;" arcsize="0%" strokecolor="#3F4F6B" strokeweight="1px" fillcolor="#0B1220">
+                    <w:anchorlock/><center style="color:#DCE7FA;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;">Visit our website</center>
+                  </v:roundrect>
+                  <![endif]-->
+                  <!--[if !mso]><!-->
+                  <a href="https://technext.asia/?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=insights_2026_08&amp;utm_content=cta_website" style="display:inline-block;padding:13px 24px;font-family:'DM Sans',Arial,Helvetica,sans-serif;font-size:15px;line-height:18px;font-weight:bold;color:#DCE7FA;text-decoration:none;">Visit our website&nbsp;&rarr;</a>
+                  <!--<![endif]-->
+                </td></tr>
+              </table>
+            </td>
+          </tr>
         </table>
       </td></tr>
     </table>
