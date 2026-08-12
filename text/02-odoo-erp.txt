@@ -1,0 +1,97 @@
+ONE SYSTEM INSTEAD OF FIVE SPREADSHEETS
+Odoo ERP implementation by TechNext
+
+A quote, the stock it commits, the invoice it becomes and the payment
+that closes it should be one record - not four files owned by four
+people. That is what Odoo does, and configuring it around your real
+workflow is what we do.
+
+Book a demo with your data (we load your products and pricing first):
+https://technext.odoo.com/book/c82cf8a9
+
+
+THREE SIGNS YOUR BUSINESS HAS OUTGROWN ITS TOOLS
+
+> The same quote gets retyped into a second system before the customer
+  sees a price.
+> Nobody can answer "what is our actual stock right now" without
+  opening three files.
+> Month-end takes a week, and it takes one specific person who cannot
+  go on leave.
+
+
+THE MODULES THAT CARRY A BUSINESS
+
+Start with the two that hurt most. Add the rest when the first ones are
+earning their keep.
+
+- Sales & CRM - every inquiry in one pipeline with an owner and a next
+  step. Quotes out the same day.
+- POS & Inventory - counter sales that move real stock, with reorder
+  rules instead of end-of-week surprises.
+- Accounting & GST - Singapore chart of accounts, 9% GST codes and
+  reporting, bank reconciliation that runs itself.
+- Purchasing & Suppliers - purchase orders tied to the sale that needed
+  them, and supplier prices that stay current.
+- HR & Payroll - leave, claims and timesheets off WhatsApp and out of a
+  spreadsheet nobody trusts.
+- Projects & Field Service - jobs, milestones and site visits that bill
+  themselves when the work is signed off.
+
+
+SINGAPORE: INVOICENOW IS COMING TO GST-REGISTERED BUSINESSES
+
+IRAS is phasing in a requirement for GST-registered businesses to
+transmit invoice data through InvoiceNow, Singapore's Peppol-based
+e-invoicing network, with existing registrants brought in by turnover
+band. Odoo can send on that network, and we set it up with your chart
+of accounts and GST codes rather than leaving it as a switch you
+discover later.
+
+IRAS requirement:
+https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-invoicenow-requirement
+
+
+HOW AN IMPLEMENTATION RUNS - WEEKS, NOT MONTHS
+
+01. Discovery - we follow one order and one invoice through your
+    business as it works today, and write down every hand-off.
+02. Configuration - your products, pricing, taxes, documents and
+    approval rules configured, not customised, wherever standard Odoo
+    already does the job.
+03. Data migration & training - customers, products and open balances
+    brought across, then training by role so people learn their screen,
+    not the whole system.
+04. Go-live and support - we are on hand through the first month-end,
+    the point where every ERP rollout is actually tested.
+
+
+THE PART MOST ODOO PARTNERS CANNOT DO
+
+We are an AI company that implements ERP. Once your data lives on one
+record, the same platform can chase follow-ups, answer customer
+questions from your own documents and draft the reports someone
+currently assembles by hand - with on-premise deployment where your
+data cannot leave your network.
+
+
+SEE IT WITH YOUR OWN PRODUCTS IN IT
+
+Send us a price list and a sample quote. We will load them into Odoo
+and walk you through your own process, not a generic sandbox with
+fictional bicycles.
+
+Book an Odoo demo: https://technext.odoo.com/book/c82cf8a9
+WhatsApp: https://wa.me/6588396998
+Or reply to this email.
+
+---
+TechNext
+hello@technext.asia | +65 8839 6998 (WhatsApp) | https://technext.asia
+
+TECHNEXT PTE. LTD. (UEN 202699888G)
+261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
+
+You are receiving this because you gave TechNext your email address or
+asked us about Odoo ERP.
+Unsubscribe: {{ unsubscribe }}

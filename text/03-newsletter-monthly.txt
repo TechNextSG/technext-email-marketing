@@ -1,0 +1,76 @@
+TECHNEXT INSIGHTS - AUGUST 2026
+
+WHAT WE ARE READING, BUILDING AND ARGUING ABOUT
+
+Three pieces this month, all from work we actually did: what
+Singapore's new AI money means if you are not a research lab, the six
+ways we have put AI inside a live Odoo system, and the honest cost of
+keeping a model on your own hardware.
+
+No product pitch below. If something is useful, reply and tell us -
+that is how we pick next month's topics.
+
+
+01. POLICY & FUNDING
+Singapore's National AI Strategy 2.0: what businesses need to know
+
+SGD 1B in new AI funding, enterprise tax breaks and a procurement
+fast-track. What the 2026 strategy means for a normal company, and how
+to actually apply.
+https://technext.asia/ai-article/singapore-national-ai-strategy-2026.html
+
+
+02. ODOO & AI
+Integrating AI with Odoo ERP: a step-by-step guide
+
+Your Odoo can run AI today, with no rebuild. Six patterns we have
+shipped to production in manufacturing and logistics, in the order we
+usually ship them.
+https://technext.asia/ai-article/odoo-ai-integration-guide.html
+
+
+03. SECURITY & INFRASTRUCTURE
+Local LLM deployment: running AI on-premise
+
+For the businesses whose data cannot leave the network: hardware
+specs, vLLM configuration and the gotchas that only show up after
+go-live.
+https://technext.asia/ai-article/local-llm-on-premise-enterprise.html
+
+
+ONE THING TO TRY THIS MONTH
+
+Time a single quote from inquiry to sent, end to end, and write down
+every place the same information is typed again. Most teams find three.
+That list - not a software demo - is what tells you whether automation
+is worth paying for, and which part to fix first.
+
+
+CLIENT SPOTLIGHT
+
+[CLIENT NAME] - [what we built, in six words]
+[Two sentences: what was breaking before, and what changed after
+go-live. Use one measured number the client has agreed to publish. If
+there is no approved number, describe the change qualitatively instead
+of inventing one.]
+More of our work: https://technext.asia/gallery/
+
+
+WANT THE VERSION OF THIS THAT APPLIES TO YOUR BUSINESS?
+
+One hour, your workflow, our honest read on what is worth automating
+and what is not.
+
+Book a free session: https://technext.odoo.com/book/c82cf8a9
+
+---
+TechNext
+hello@technext.asia | https://technext.asia
+All articles: https://technext.asia/blog/
+
+TECHNEXT PTE. LTD. (UEN 202699888G)
+261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
+
+You are receiving TechNext Insights because you subscribed or gave us
+your email address. One email a month.
+Unsubscribe: {{ unsubscribe }}
