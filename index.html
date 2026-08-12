@@ -22,7 +22,7 @@
 
   /* ── top bar ─────────────────────────────── */
   header{background:var(--ink);color:#fff;padding:26px 0;border-bottom:4px solid var(--blue)}
-  .shell{max-width:1080px;margin:0 auto;padding:0 24px}
+  .shell{max-width:1220px;margin:0 auto;padding:0 24px}
   header h1{margin:0;font-size:26px;line-height:1.25;font-weight:700;letter-spacing:-.2px}
   header p{margin:8px 0 0;color:#A8B2C4;font-size:14px;max-width:70ch}
   header .meta{margin-top:14px;font-size:12px;color:#8A93A5}
@@ -49,11 +49,12 @@
   .tag{display:inline-block;font-size:11px;letter-spacing:.8px;text-transform:uppercase;
         background:#EDF1F7;border:1px solid var(--line);color:#3D4657;padding:4px 8px;margin-right:6px}
 
-  .camp__body{display:grid;grid-template-columns:minmax(0,1fr) 400px;gap:0}
-  @media (max-width:900px){ .camp__body{grid-template-columns:1fr} }
+  /* right column must clear 600px + gutters, or the email previews in its mobile layout */
+  .camp__body{display:grid;grid-template-columns:minmax(0,1fr) 640px;gap:0}
+  @media (max-width:1120px){ .camp__body{grid-template-columns:1fr} }
 
   .copy{padding:22px;border-right:1px solid var(--line)}
-  @media (max-width:900px){ .copy{border-right:0;border-bottom:1px solid var(--line)} }
+  @media (max-width:1120px){ .copy{border-right:0;border-bottom:1px solid var(--line)} }
   .copy h3{margin:0 0 8px;font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:var(--muted)}
   .copy h3:not(:first-child){margin-top:22px}
   ol.subj{margin:0;padding-left:20px}
@@ -79,7 +80,7 @@
         cursor:pointer;font-family:inherit;color:#3D4657}
   .seg[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff;font-weight:700}
   .prev__note{margin-left:auto;font-size:11.5px;color:var(--muted)}
-  .frame{background:#fff;border:1px solid #CBD4E1;margin:0 auto;transition:width .15s ease}
+  .frame{background:#fff;border:1px solid #CBD4E1;margin:0 auto;width:602px;max-width:100%;transition:width .15s ease}
   iframe{display:block;width:100%;border:0;height:760px;background:#EEF1F6}
 
   /* ── how-to ──────────────────────────────── */
@@ -180,7 +181,7 @@
       </div>
       <div class="prev">
         <div class="prev__bar">
-          <button class="seg" data-w="100%" aria-pressed="true">Desktop</button>
+          <button class="seg" data-w="602px" aria-pressed="true">Desktop</button>
           <button class="seg" data-w="375px" aria-pressed="false">Mobile</button>
           <span class="prev__note">375px triggers the stacking media query</span>
         </div>
@@ -235,7 +236,7 @@
       </div>
       <div class="prev">
         <div class="prev__bar">
-          <button class="seg" data-w="100%" aria-pressed="true">Desktop</button>
+          <button class="seg" data-w="602px" aria-pressed="true">Desktop</button>
           <button class="seg" data-w="375px" aria-pressed="false">Mobile</button>
           <span class="prev__note">Module grid goes single-column under 620px</span>
         </div>
@@ -291,7 +292,7 @@
       </div>
       <div class="prev">
         <div class="prev__bar">
-          <button class="seg" data-w="100%" aria-pressed="true">Desktop</button>
+          <button class="seg" data-w="602px" aria-pressed="true">Desktop</button>
           <button class="seg" data-w="375px" aria-pressed="false">Mobile</button>
           <span class="prev__note">Article numbers stack above titles on mobile</span>
         </div>
