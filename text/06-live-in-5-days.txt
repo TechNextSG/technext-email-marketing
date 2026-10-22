@@ -1,0 +1,107 @@
+Odoo BIR setup before 31 December 2026 - limited to the first 10
+clients:
+https://technext.asia/bir-e-invoicing#talk
+
+Live in as little as 5 days
+
+ODOO LIVE IN DAYS, NOT MONTHS.
+
+ERP projects drag when nobody owns the plan. Ours is fixed from day one:
+what gets set up, when, and who signs off. A starter set-up of Odoo
+Invoicing and Accounting can be live in as little as 5 days.
+
+Book a discovery call:
+https://technext.asia/#talk
+
+Get a quotation:
+https://technext.asia/quotation
+
+Your plan is written down before day one, so you know what you get and
+when.
+
+5 DAYS TO GO LIVE
+Starter set-up: Odoo Invoicing and Accounting
+Day 1 > Day 2 > Day 3 > Day 4 > Live
+
+A clear, fixed rollout plan
+
+YOU KNOW THREE THINGS BEFORE WE START
+
+What gets set up
+The apps and settings in this phase, agreed before work starts.
+
+When
+Each step on a date, so you know when Odoo goes live.
+
+Who signs off
+A named owner on your side for every step, so nothing stalls.
+
+Why it is fast
+
+DAYS, NOT MONTHS, WITHOUT CUTTING CORNERS
+
+A starter set-up that goes live first
+Odoo Invoicing and Accounting, live in as little as 5 days, set up for
+Philippine tax rules before your first invoice.
+
+Bigger rollouts split into phases
+Your team uses Odoo while the rest is built, for example Sales,
+Inventory or Purchase in a later phase.
+
+We map before we configure
+An adviser maps how your team works today, so the set-up fits on the
+first pass and we install only what you need.
+
+What "as little as 5 days" covers
+
+The 5 days is for a starter set-up of Invoicing and Accounting. Larger
+scopes, data migration and the BIR e-invoicing (EIS) link are planned as
+their own phases, with dates in your plan.
+
+Start using Odoo this month
+
+Your website and brand come with your Odoo, and our own experts stay on
+after go-live. You don't need to hire your own team.
+
+Live in as little as 5 days
+
+GET YOUR ROLLOUT PLAN, WITH DATES.
+
+Book a discovery call. An adviser maps how you work today and writes the
+plan: what gets set up, when, and who signs off.
+
+Book a discovery call:
+https://technext.asia/#talk
+
+BIR-ready check:
+https://technext.asia/free-website-with-odoo
+
+Questions first? Reply to this email or write to sales@technext.asia. An
+adviser will answer.
+
+:
+https://technext.asia/
+
+Your trusted expert adviser for ERP and compliance.
+
+Philippines: Level 9, IP Center (Intellectual Property Center), Taguig
+City, Metro Manila 1634
+
+sales@technext.asia - hello@technext.asia
+
+technext.asia:
+https://technext.asia/
+
+You are receiving this because you gave TechNext your email address or
+asked us about Odoo. If that is no longer of interest, unsubscribe below
+and we will stop. This email is general information, not tax advice;
+confirm your coverage with your accountant or Revenue District Office.
+Odoo is a separate subscription.
+
+TECHNEXT PTE. LTD. (UEN 202699888G) - 261 Waterloo Street, #03-36,
+Waterloo Centre, Singapore 180261
+
+Unsubscribe: {{ unsubscribe }}
+
+Contact us:
+https://technext.asia/contact/
