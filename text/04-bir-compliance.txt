@@ -2,14 +2,15 @@ Limited to the first 10 clients - Odoo BIR setup before 31 December 2026
 
 BIR compliance in Odoo - Philippines
 
-Get BIR e-invoicing running in Odoo before 31 December. We have 10 setup
-slots.
+Prepare your Odoo for BIR e-invoicing before 31 December. We have 10
+setup slots.
 
 Covered businesses must issue electronic invoices the BIR can receive by
 31 December 2026. Odoo is where your invoices, withholding and BIR
-reports can live together, so that is where we make you ready. Our own
-experts set up Odoo for the BIR and build its e-invoicing link, end to
-end. We are taking on 10 Odoo BIR projects for this deadline.
+reports can live together, so that is where we do the set-up work. Our
+own experts set up Odoo for BIR requirements and build its e-invoicing
+link, end to end. We are taking on 10 Odoo BIR projects for this
+deadline.
 
 Claim an Odoo BIR slot:
 https://technext.asia/bir-e-invoicing#talk
@@ -17,8 +18,8 @@ https://technext.asia/bir-e-invoicing#talk
 BIR in Odoo:
 https://technext.asia/odoo/philippines
 
-First come, first served. Not sure if you are covered? Your readiness
-check answers that first.
+First come, first served. Not sure if you are covered? Your accountant
+or Revenue District Office decides that; we help you prepare either way.
 
 Odoo BIR setup slots for the 31 December deadline
 
@@ -38,7 +39,7 @@ the date.
 
 What waiting costs you
 
-Every BIR headache, solved in Odoo
+Every BIR headache, handled in Odoo
 
 Your invoices can't reach the BIR
 
@@ -76,11 +77,12 @@ together.
 
 Your Odoo BIR slot includes
 
-Everything from "are we covered?" to e-invoicing in Odoo
+Everything your Odoo needs for BIR e-invoicing
 
-BIR readiness check
+BIR set-up review
 
-With your accountant: covered now, later or exempt, and what is missing.
+We go through the rules with you and your accountant, and list what your
+Odoo needs.
 
 Odoo Philippine localisation
 
@@ -121,8 +123,8 @@ Paying Taxes Act
 
 On CAS or CBA with e-invoicing or other invoicing software
 
-Micro taxpayers are exempt. Under RR 26-2025 and RMC 98-2026; your
-readiness check confirms your group.
+Micro taxpayers are exempt. Under RR 26-2025 and RMC 98-2026. Your
+accountant or Revenue District Office confirms which group you are in.
 
 From slot to live
 
@@ -133,14 +135,14 @@ Four steps to BIR e-invoicing in Odoo
 Claim your slot
 
 Tell us about your business on our website. An adviser replies and books
-your readiness check.
+your set-up review.
 
 02
 
-Readiness check
+Set-up review
 
-We confirm your BIR group with your accountant and map every invoice
-flow, including branches.
+We go through the BIR rules with you and your accountant, and map every
+invoice flow, including branches.
 
 03
 
@@ -180,8 +182,8 @@ Limited to the first 10 clients
 Claim one of the 10 Odoo BIR setup slots.
 
 The deadline is 31 December 2026 and the PTI comes first. Leave your
-details on our website and an adviser will reply, check whether you are
-covered, and hold your slot.
+details on our website and an adviser will reply, walk you through the
+rules that may apply, and hold your slot.
 
 Claim your Odoo BIR slot:
 https://technext.asia/bir-e-invoicing#talk
@@ -209,7 +211,9 @@ You are receiving this because you gave TechNext your email address or
 asked us about Odoo or BIR compliance. If that is no longer of interest,
 unsubscribe below and we will stop. This email is general information,
 not tax advice; confirm your coverage with your accountant or Revenue
-District Office. Odoo is a separate subscription.
+District Office. Odoo is a separate subscription. TechNext is not
+affiliated with the Bureau of Internal Revenue; coverage, permits and
+registrations are decided by the BIR, and we do not guarantee them.
 
 TECHNEXT PTE. LTD. (UEN 202699888G) - 261 Waterloo Street, #03-36,
 Waterloo Centre, Singapore 180261

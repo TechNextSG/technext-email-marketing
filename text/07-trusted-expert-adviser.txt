@@ -39,16 +39,6 @@ uses.
 A written recommendation and a quotation that follows that scope
 Then our own experts deliver it and stay on after go-live.
 
-Trusted by
-
-Companies we've worked with
-
-St. Clare College of Caloocan, Casa Escondida Anilao, Immaculate Connections,
-BHD Asia, JR-Tech Solution and more
-
-See what we delivered:
-https://technext.asia/case-studies
-
 This is our company, and our own experts do the work
 
 Odoo Ready Partner
@@ -79,7 +69,7 @@ follows it.
 Book a discovery call:
 https://technext.asia/#talk
 
-BIR-ready check:
+Explore BIR set-up:
 https://technext.asia/free-website-with-odoo#claim
 
 Questions first? Reply to this email or write to sales@technext.asia. An
@@ -102,7 +92,9 @@ You are receiving this because you gave TechNext your email address or
 asked us about Odoo or BIR compliance. If that is no longer of interest,
 unsubscribe below and we will stop. This email is general information,
 not tax advice; confirm your coverage with your accountant or Revenue
-District Office. Odoo is a separate subscription.
+District Office. Odoo is a separate subscription. TechNext is not
+affiliated with the Bureau of Internal Revenue; coverage, permits and
+registrations are decided by the BIR, and we do not guarantee them.
 
 TECHNEXT PTE. LTD. (UEN 202699888G) - 261 Waterloo Street, #03-36,
 Waterloo Centre, Singapore 180261

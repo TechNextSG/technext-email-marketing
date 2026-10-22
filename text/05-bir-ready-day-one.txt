@@ -2,14 +2,14 @@ Odoo BIR setup before 31 December 2026 - limited to the first 10
 clients:
 https://technext.asia/bir-e-invoicing#talk
 
-BIR-ready from day one - Philippines
+BIR requirements from day one - Philippines
 
-Your Odoo, set up for the BIR before your first invoice.
+Odoo set up for BIR rules before your first invoice.
 
 Most BIR trouble starts on day one: the wrong VAT set-up, invoices
 missing the fields the EOPT Act asks for, withholding nobody configured.
-We set Odoo up for Philippine tax rules first, so every invoice, 2307
-and report comes out right from the start.
+We set Odoo up for Philippine tax rules first, so your invoices, 2307s
+and reports follow that set-up from the start.
 
 Book a discovery call:
 https://technext.asia/bir-cas#talk
@@ -17,8 +17,8 @@ https://technext.asia/bir-cas#talk
 How BIR CAS works:
 https://technext.asia/bir-cas
 
-An adviser checks your VAT status, invoices and BIR reports on the first
-call.
+On the first call, an adviser walks through your VAT set-up, invoices
+and BIR reports with you.
 
 Set up in your Odoo before your first invoice
 
@@ -32,9 +32,9 @@ SLSP, SAWT and QAP
 
 Audit trail on every entry
 
-What BIR-ready means
+What we set up
 
-Three things that are right before you go live
+Three things set up before you go live
 
 Invoices set up for BIR requirements
 Under the EOPT Act, with VAT or non-VAT configured from the start.
@@ -47,7 +47,7 @@ Posted entries keep their history, so filing season isn't a scramble.
 
 Registering Odoo as your CAS
 
-BIR CAS registration at a glance
+BIR CAS registration: who does what
 
 We set Odoo up as your Computerized Accounting System (CAS) or
 Computerized Books of Accounts (CBA), and prepare the sample invoices,
@@ -57,11 +57,11 @@ business files at its Revenue District Office.
 What you register
 Your use of a system, at your RDO, not a software brand
 
-What you receive
-An Acknowledgement Certificate with a control number
+Who decides
+The BIR, through your RDO. Not TechNext.
 
-How long
-Within three working days of a complete application
+What we do
+Set up Odoo and prepare the samples with you
 
 Every year
 Computerised books registered online in ORUS
@@ -94,25 +94,25 @@ has not accredited any e-invoicing provider. You register Odoo as your
 computerised books at your Revenue District Office, and we prepare the
 samples, audit trail and system description with you.
 
-Not sure where you stand?
+Not sure where to start?
 
-Tell us your biggest BIR headache and an adviser will check your set-up
-against it.
+Tell us your biggest BIR headache and an adviser will show you how Odoo
+handles it.
 
-Check if you're BIR-ready:
+See how Odoo handles it:
 https://technext.asia/free-website-with-odoo#claim
 
-BIR-ready from day one
+BIR requirements from day one
 
-Start your Odoo the right way for the BIR.
+Start your Odoo with the BIR set-up in place.
 
-Book a discovery call and an adviser will map your VAT status, invoices
-and BIR reports, then tell you what to set up first.
+Book a discovery call and an adviser will map your VAT set-up, invoices
+and BIR reports, then recommend what to set up first.
 
 Book a discovery call:
 https://technext.asia/bir-cas#talk
 
-BIR-ready check:
+Explore BIR set-up:
 https://technext.asia/free-website-with-odoo#claim
 
 Questions first? Reply to this email or write to sales@technext.asia. An
@@ -135,7 +135,9 @@ You are receiving this because you gave TechNext your email address or
 asked us about Odoo or BIR compliance. If that is no longer of interest,
 unsubscribe below and we will stop. This email is general information,
 not tax advice; confirm your coverage with your accountant or Revenue
-District Office. Odoo is a separate subscription.
+District Office. Odoo is a separate subscription. TechNext is not
+affiliated with the Bureau of Internal Revenue; coverage, permits and
+registrations are decided by the BIR, and we do not guarantee them.
 
 TECHNEXT PTE. LTD. (UEN 202699888G) - 261 Waterloo Street, #03-36,
 Waterloo Centre, Singapore 180261
