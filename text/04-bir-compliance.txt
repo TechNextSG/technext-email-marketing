@@ -1,0 +1,139 @@
+BIR E-INVOICING DEADLINE: 31 DECEMBER 2026 (RR 26-2025 & RMC 98-2026)
+
+A PDF IS NOT AN E-INVOICE. CAN YOUR SYSTEM SEND ONE?
+BIR compliance - Philippines
+
+By 31 December 2026, covered businesses must issue electronic invoices
+the BIR can receive. Printed or emailed PDFs no longer count. We advise
+first: we check with your accountant whether you are covered, then set
+up Odoo and the e-invoicing link so you are ready before the date.
+
+Talk to a BIR adviser (30-minute call):
+https://technext.odoo.com/book/c82cf8a9
+
+Read the BIR guide:
+https://technext.asia/bir-e-invoicing
+
+
+AT A GLANCE
+
+- Deadline: 31 December 2026
+- First step: a Permit to Issue (PTI) Electronic Invoice
+- Then: EIS Certification within six months of the PTI
+- Applies to: head office and every branch
+
+
+WHERE BIR COMPLIANCE HURTS TODAY
+
+- Invoices that can't be sent - if your system can't transmit sales
+  data to the BIR, it needs work before the deadline.
+- 2307s typed by hand - Odoo 20 generates BIR 2306 and 2307
+  certificates straight from your vendor bills.
+- Month-end in Excel - SLSP, SAWT and QAP come from the same entries as
+  your books, with DAT exports for the BIR's tools.
+- CAS paperwork - set Odoo up first, and your sample outputs come from
+  the system you will actually use.
+- Branches doing it differently - the rule covers head office and every
+  branch. One Odoo database gives them one invoice flow.
+- Digging for an audit - posted entries keep their history and
+  attachments, so what an examiner asks for is already together.
+
+
+WHO MUST ISSUE E-INVOICES BY 31 DECEMBER 2026
+
+- Small, medium and large taxpayers selling through e-commerce or
+  internet transactions
+- Taxpayers under the Large Taxpayers Service, and large taxpayers
+  under the Ease of Paying Taxes Act
+- Businesses on CAS or CBA with e-invoicing or other invoicing software
+- Micro taxpayers are exempt.
+
+Not sure which group you are in? Check with your accountant or your
+Revenue District Office. We do this with you on the first call.
+
+
+BIR COMPLIANCE, HANDLED IN YOUR ODOO
+
+In Odoo 20:
+- Invoices and a Book of Accounts set up for BIR and CAS/CBA
+  requirements
+- BIR 2306 and 2307 certificates from vendor bills
+- SLSP, SAWT, QAP with DAT exports, and the 2550Q VAT summary
+- Payroll with the 1601-C, 2316 and 1604-C
+
+What TechNext adds:
+- The connection to the BIR's EIS, built and tested on a copy of your
+  database
+- Invoice layouts and branch flows checked against the guidelines
+- Credit-note and downtime manual-invoice flows ready before go-live
+- Sample outputs and process flow for your PTI application
+
+
+A WORD OF CAUTION: BE CAREFUL WITH "BIR-ACCREDITED" CLAIMS
+
+In its 14 September 2026 advisory, the BIR said it has not accredited
+or endorsed any software or e-invoicing provider. Your PTI and CAS
+applications are still filed with the BIR in your company's name. We
+tell you plainly what Odoo does, what we build, and what you still
+file.
+
+Read: BIR rules for your accounting system
+https://technext.asia/blog/bir-rules-for-your-accounting-system
+
+
+HOW WE GET YOU READY
+
+You don't need to hire your own team. Our own experts advise, set up,
+test and stay on after go-live.
+
+01 Confirm your group - with your accountant: covered now, later, or
+   exempt.
+02 Map your invoice flows - customer invoices, credit notes, branches,
+   and anything issued outside your system today.
+03 Set up the localisation and build the BIR link - taxes, withholding,
+   BIR reports and invoice layouts, tested on your real data, plus the
+   EIS connection.
+04 Support your PTI, go live, stay on - process flow and sample
+   invoices from your Odoo for the application, then support from the
+   team that set it up.
+
+
+SEE THE BIR REPORTS BEFORE YOU COMMIT
+
+What your 2307, SLSP, QAP, SAWT and 2550Q VAT summary look like when
+they come from the same entries as your books. Fictitious company and
+figures, for illustration.
+
+Download the sample reports (PDF):
+https://technext.asia/assets/docs/technext-sample-bir-reports.pdf
+
+
+START NOW, NOT IN DECEMBER.
+
+The PTI comes before your first e-invoice, and the link needs testing
+on your data. Book a call and an adviser will tell you where you stand
+and what to do first. Start your Odoo with us and your website and
+brand come with it.
+
+Book a discovery call:
+https://technext.odoo.com/book/c82cf8a9
+
+Odoo in the Philippines:
+https://technext.asia/odoo/philippines
+
+Questions first? Just reply to this email. An adviser will answer.
+
+--
+TechNext - your trusted expert adviser for ERP and compliance.
+hello@technextasia.com - https://technext.asia/
+
+You are receiving this because you gave TechNext your email address or
+asked us about Odoo or BIR compliance. If that is no longer of
+interest, unsubscribe and we will stop. This email is general
+information, not tax advice; confirm your coverage with your accountant
+or Revenue District Office. Odoo is a separate subscription.
+
+TECHNEXT PTE. LTD. (UEN 202699888G)
+261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
+
+Unsubscribe: {{ unsubscribe }}
