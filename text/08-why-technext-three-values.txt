@@ -97,13 +97,12 @@ BHD Asia, JR-Tech Solution and more
 Odoo Ready Partner - Singapore HQ, Taguig City and Ho Chi Minh City -
 clients in 10+ countries
 
-Straight talk, no "BIR-accredited" claims
+Why we never say "BIR-accredited"
 
-No software is BIR-accredited. The BIR registers your business's use of
-a system, and its 14 September 2026 advisory says it has not accredited
-any e-invoicing provider. Your business registers Odoo as its
-computerised books and files at its Revenue District Office. We prepare
-the samples, audit trail and system description with you.
+Because no provider is. In a 14 September 2026 advisory the BIR said it
+has not accredited any e-invoicing provider; it registers how your
+business uses a system. Your business files at its Revenue District
+Office, and we get Odoo and the paperwork ready with you.
 
 Your website and brand come with your Odoo
 

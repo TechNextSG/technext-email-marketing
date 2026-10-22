@@ -86,13 +86,13 @@ Unique user IDs and logged changes
 
 Backups kept for ten years
 
-Straight talk, no "BIR-accredited" claims
+A word on "BIR-accredited" software
 
-No software is BIR-accredited. The BIR registers your business's use of
-a system, and its 14 September 2026 advisory says it has not accredited
-any e-invoicing provider. Your business registers Odoo as its
-computerised books and files at its Revenue District Office. We prepare
-the samples, audit trail and system description with you.
+There is no such thing. The BIR registers how your business uses a
+system, not a software brand, and its 14 September 2026 advisory says it
+has not accredited any e-invoicing provider. You register Odoo as your
+computerised books at your Revenue District Office, and we prepare the
+samples, audit trail and system description with you.
 
 Not sure where you stand?
 

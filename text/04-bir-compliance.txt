@@ -156,12 +156,13 @@ PTI, go-live, stay on
 Your PTI application uses outputs from your Odoo. Then we stay on as
 your Odoo support.
 
-Straight talk, no "BIR-accredited" claims
+Plain answers, no "BIR-accredited" claims
 
-In its 14 September 2026 advisory, the BIR said it has not accredited or
+The BIR's 14 September 2026 advisory is clear: it has not accredited or
 endorsed any software or e-invoicing provider. Your PTI and CAS
-applications are filed with the BIR in your company's name. We tell you
-plainly what Odoo does, what we build, and what you still file.
+applications go to the BIR in your company's name. Before your project
+starts, we spell out what Odoo already does, what we build for you, and
+what you still file.
 BIR rules for your accounting system:
 https://technext.asia/blog/bir-rules-for-your-accounting-system
 .
