@@ -8,8 +8,8 @@ the BIR can receive. Printed or emailed PDFs no longer count. We advise
 first: we check with your accountant whether you are covered, then set
 up Odoo and the e-invoicing link so you are ready before the date.
 
-Talk to a BIR adviser (30-minute call):
-https://technext.odoo.com/book/c82cf8a9
+Talk to a BIR adviser (opens the form on our website):
+https://technext.asia/bir-e-invoicing#talk
 
 Read the BIR guide:
 https://technext.asia/bir-e-invoicing
@@ -111,12 +111,12 @@ https://technext.asia/assets/docs/technext-sample-bir-reports.pdf
 START NOW, NOT IN DECEMBER.
 
 The PTI comes before your first e-invoice, and the link needs testing
-on your data. Book a call and an adviser will tell you where you stand
+on your data. Talk to an adviser and we will tell you where you stand
 and what to do first. Start your Odoo with us and your website and
 brand come with it.
 
-Book a discovery call:
-https://technext.odoo.com/book/c82cf8a9
+Talk to an adviser:
+https://technext.asia/bir-e-invoicing#talk
 
 Odoo in the Philippines:
 https://technext.asia/odoo/philippines
