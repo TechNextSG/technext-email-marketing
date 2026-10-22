@@ -4,7 +4,7 @@ https://technext.asia/bir-e-invoicing#talk
 
 Why set up Odoo with TechNext
 
-BIR-READY FROM DAY ONE. LIVE IN DAYS. ADVISED BY EXPERTS.
+BIR-ready from day one. Live in days. Advised by experts.
 
 Set up for the BIR before your first invoice, live in days rather than
 months, and advised by people who know the rules. Three reasons
@@ -15,20 +15,18 @@ Book a discovery call:
 https://technext.asia/#talk
 
 BIR-ready check:
-https://technext.asia/free-website-with-odoo
+https://technext.asia/free-website-with-odoo#claim
 
 One call with an adviser covers all three: your BIR set-up, your rollout
 plan and the apps you actually need.
 
 01 BIR-ready from day one
-
 02 Live in as little as 5 days
-
 03 Expert adviser for ERP and compliance
 
 Value 01
 
-BIR-READY FROM DAY ONE
+BIR-ready from day one
 
 Odoo set up for Philippine tax rules before you issue your first
 invoice.
@@ -45,23 +43,24 @@ non-VAT configured from the start
 Withholding tax, 2307 and the main BIR reports ready to generate from
 your own data
 
-- Books kept audit-ready, so filing season isn't a scramble
+Books kept audit-ready, so filing season isn't a scramble
 
 How BIR CAS registration works:
 https://technext.asia/bir-cas
 
 Value 02
 
-LIVE IN AS LITTLE AS 5 DAYS
+Live in as little as 5 days
 
 A clear, fixed rollout plan, so you start using Odoo in days, not
 months.
 
-5 DAYS TO GO LIVE: Day 1 > Day 2 > Day 3 > Day 4 > Live
+5 days to go live (starter set-up: Odoo Invoicing and Accounting)
+Day 1 > Day 2 > Day 3 > Day 4 > Live
 
-- A starter set-up (Invoicing and Accounting) live in as little as 5 days
+A starter set-up (Invoicing and Accounting) live in as little as 5 days
 
-- A clear plan from day one: what gets set up, when, and who signs off
+A clear plan from day one: what gets set up, when, and who signs off
 
 Bigger rollouts are split into phases, so your team uses Odoo while the
 rest is built
@@ -71,7 +70,7 @@ https://technext.asia/quotation
 
 Value 03
 
-YOUR TRUSTED EXPERT ADVISER
+Your trusted expert adviser
 
 We advise first and install second, for ERP and compliance.
 
@@ -79,41 +78,41 @@ We advise first and install second, for ERP and compliance.
 2. Map - how your team works today
 3. Install - only what you need
 
-- We map your real processes before touching the system
+We map your real processes before touching the system
 
-- Honest advice on which Odoo apps you need, and which you don't
+Honest advice on which Odoo apps you need, and which you don't
 
-- A written recommendation and a quotation that follows that scope
+A written recommendation and a quotation that follows that scope
 
 See our work:
 https://technext.asia/case-studies
 
 Trusted by
 
-BUSINESSES THAT SET UP ODOO WITH US
+Companies we've worked with
 
-St. Clare College of Caloocan, Casa Escondida Anilao, Immaculate
-Connections, BHD Asia, JR-Tech Solution and more
+St. Clare College of Caloocan, Casa Escondida Anilao, Immaculate Connections,
+BHD Asia, JR-Tech Solution and more
 
 Odoo Ready Partner - Singapore HQ, Taguig City and Ho Chi Minh City -
 clients in 10+ countries
 
 Straight talk, no "BIR-accredited" claims
 
-No software is BIR-accredited in that sense. The BIR registers your
-business's use of a system, and its 14 September 2026 advisory says it
-has not accredited any e-invoicing provider. Your business registers
-Odoo as its computerised books and files at its Revenue District Office.
-We prepare everything that filing needs.
+No software is BIR-accredited. The BIR registers your business's use of
+a system, and its 14 September 2026 advisory says it has not accredited
+any e-invoicing provider. Your business registers Odoo as its
+computerised books and files at its Revenue District Office. We prepare
+the samples, audit trail and system description with you.
 
 Your website and brand come with your Odoo
 
-Start Odoo with us and the website is on us, designed by the same team.
-You don't need to hire your own team.
+Designed by the same team that sets up your Odoo. You don't need to hire
+your own team.
 
 Why set up Odoo with TechNext
 
-BOOK ONE CALL. GET ALL THREE.
+Book one call. Get all three.
 
 An adviser maps how you work and which BIR reports you file, then sends
 a written recommendation with a clear rollout plan. Your Odoo is set up
@@ -123,12 +122,12 @@ Book a discovery call:
 https://technext.asia/#talk
 
 BIR-ready check:
-https://technext.asia/free-website-with-odoo
+https://technext.asia/free-website-with-odoo#claim
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.
 
-:
+TechNext:
 https://technext.asia/
 
 Your trusted expert adviser for ERP and compliance.
@@ -153,4 +152,7 @@ Waterloo Centre, Singapore 180261
 Unsubscribe: {{ unsubscribe }}
 
 Contact us:
-https://technext.asia/contact/
+https://technext.asia/company
+
+Privacy policy:
+https://technext.asia/privacy

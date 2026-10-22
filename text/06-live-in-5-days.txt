@@ -4,7 +4,7 @@ https://technext.asia/bir-e-invoicing#talk
 
 Live in as little as 5 days
 
-ODOO LIVE IN DAYS, NOT MONTHS.
+Odoo live in days, not months.
 
 ERP projects drag when nobody owns the plan. Ours is fixed from day one:
 what gets set up, when, and who signs off. A starter set-up of Odoo
@@ -19,13 +19,12 @@ https://technext.asia/quotation
 Your plan is written down before day one, so you know what you get and
 when.
 
-5 DAYS TO GO LIVE
-Starter set-up: Odoo Invoicing and Accounting
+5 days to go live (starter set-up: Odoo Invoicing and Accounting)
 Day 1 > Day 2 > Day 3 > Day 4 > Live
 
 A clear, fixed rollout plan
 
-YOU KNOW THREE THINGS BEFORE WE START
+You know three things before we start
 
 What gets set up
 The apps and settings in this phase, agreed before work starts.
@@ -38,7 +37,7 @@ A named owner on your side for every step, so nothing stalls.
 
 Why it is fast
 
-DAYS, NOT MONTHS, WITHOUT CUTTING CORNERS
+Days, not months, without cutting corners
 
 A starter set-up that goes live first
 Odoo Invoicing and Accounting, live in as little as 5 days, set up for
@@ -58,14 +57,14 @@ The 5 days is for a starter set-up of Invoicing and Accounting. Larger
 scopes, data migration and the BIR e-invoicing (EIS) link are planned as
 their own phases, with dates in your plan.
 
-Start using Odoo this month
+Start using Odoo in days
 
 Your website and brand come with your Odoo, and our own experts stay on
 after go-live. You don't need to hire your own team.
 
 Live in as little as 5 days
 
-GET YOUR ROLLOUT PLAN, WITH DATES.
+Get your rollout plan, with dates.
 
 Book a discovery call. An adviser maps how you work today and writes the
 plan: what gets set up, when, and who signs off.
@@ -74,12 +73,12 @@ Book a discovery call:
 https://technext.asia/#talk
 
 BIR-ready check:
-https://technext.asia/free-website-with-odoo
+https://technext.asia/free-website-with-odoo#claim
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.
 
-:
+TechNext:
 https://technext.asia/
 
 Your trusted expert adviser for ERP and compliance.
@@ -104,4 +103,7 @@ Waterloo Centre, Singapore 180261
 Unsubscribe: {{ unsubscribe }}
 
 Contact us:
-https://technext.asia/contact/
+https://technext.asia/company
+
+Privacy policy:
+https://technext.asia/privacy

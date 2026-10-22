@@ -4,7 +4,7 @@ https://technext.asia/bir-e-invoicing#talk
 
 BIR-ready from day one - Philippines
 
-YOUR ODOO, SET UP FOR THE BIR BEFORE YOUR FIRST INVOICE.
+Your Odoo, set up for the BIR before your first invoice.
 
 Most BIR trouble starts on day one: the wrong VAT set-up, invoices
 missing the fields the EOPT Act asks for, withholding nobody configured.
@@ -22,15 +22,19 @@ call.
 
 Set up in your Odoo before your first invoice
 
-- VAT or non-VAT set-up
-- EOPT invoice fields
-- ATC codes and 2307
-- SLSP, SAWT and QAP
-- Audit trail on every entry
+VAT or non-VAT set-up
+
+EOPT invoice fields
+
+ATC codes and 2307
+
+SLSP, SAWT and QAP
+
+Audit trail on every entry
 
 What BIR-ready means
 
-THREE THINGS THAT ARE RIGHT BEFORE YOU GO LIVE
+Three things that are right before you go live
 
 Invoices set up for BIR requirements
 Under the EOPT Act, with VAT or non-VAT configured from the start.
@@ -43,7 +47,7 @@ Posted entries keep their history, so filing season isn't a scramble.
 
 Registering Odoo as your CAS
 
-BIR CAS REGISTRATION AT A GLANCE
+BIR CAS registration at a glance
 
 We set Odoo up as your Computerized Accounting System (CAS) or
 Computerized Books of Accounts (CBA), and prepare the sample invoices,
@@ -64,25 +68,31 @@ Computerised books registered online in ORUS
 
 What the BIR checks
 
-REQUIREMENTS YOUR RDO LOOKS FOR, SET UP IN ODOO
+Requirements your RDO looks for, set up in Odoo
 
--   Audit trail, printable and protected
--   Posted entries voided, never edited
--   System-generated invoice numbers
--   User stamp on every record
+Audit trail, printable and protected
 
--   Report headers with TIN and branch code
--   CSV or DAT exports; 2306, 2307, 2316
--   Unique user IDs and logged changes
--   Backups kept for ten years
+Posted entries voided, never edited
+
+System-generated invoice numbers
+
+User stamp on every record
+
+Report headers with TIN and branch code
+
+CSV or DAT exports; 2306, 2307, 2316
+
+Unique user IDs and logged changes
+
+Backups kept for ten years
 
 Straight talk, no "BIR-accredited" claims
 
-No software is BIR-accredited in that sense. The BIR registers your
-business's use of a system, and its 14 September 2026 advisory says it
-has not accredited any e-invoicing provider. Your business registers
-Odoo as its computerised books and files at its Revenue District Office.
-We prepare everything that filing needs.
+No software is BIR-accredited. The BIR registers your business's use of
+a system, and its 14 September 2026 advisory says it has not accredited
+any e-invoicing provider. Your business registers Odoo as its
+computerised books and files at its Revenue District Office. We prepare
+the samples, audit trail and system description with you.
 
 Not sure where you stand?
 
@@ -90,11 +100,11 @@ Tell us your biggest BIR headache and an adviser will check your set-up
 against it.
 
 Check if you're BIR-ready:
-https://technext.asia/free-website-with-odoo
+https://technext.asia/free-website-with-odoo#claim
 
 BIR-ready from day one
 
-START YOUR ODOO THE RIGHT WAY FOR THE BIR.
+Start your Odoo the right way for the BIR.
 
 Book a discovery call and an adviser will map your VAT status, invoices
 and BIR reports, then tell you what to set up first.
@@ -103,12 +113,12 @@ Book a discovery call:
 https://technext.asia/bir-cas#talk
 
 BIR-ready check:
-https://technext.asia/free-website-with-odoo
+https://technext.asia/free-website-with-odoo#claim
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.
 
-:
+TechNext:
 https://technext.asia/
 
 Your trusted expert adviser for ERP and compliance.
@@ -133,4 +143,7 @@ Waterloo Centre, Singapore 180261
 Unsubscribe: {{ unsubscribe }}
 
 Contact us:
-https://technext.asia/contact/
+https://technext.asia/company
+
+Privacy policy:
+https://technext.asia/privacy

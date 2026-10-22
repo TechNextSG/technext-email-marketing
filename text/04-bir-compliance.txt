@@ -1,16 +1,17 @@
-LIMITED TO THE FIRST 10 CLIENTS - ODOO BIR SETUP BEFORE 31 DECEMBER 2026
+Limited to the first 10 clients - Odoo BIR setup before 31 December 2026
 
-GET BIR E-INVOICING RUNNING IN ODOO BEFORE 31 DECEMBER.
-WE HAVE 10 SETUP SLOTS.
 BIR compliance in Odoo - Philippines
 
-Covered businesses must issue electronic invoices the BIR can receive
-by 31 December 2026. Odoo is where your invoices, withholding and BIR
-reports already live, so that is where we make you ready. Our own
+Get BIR e-invoicing running in Odoo before 31 December. We have 10 setup
+slots.
+
+Covered businesses must issue electronic invoices the BIR can receive by
+31 December 2026. Odoo is where your invoices, withholding and BIR
+reports can live together, so that is where we make you ready. Our own
 experts set up Odoo for the BIR and build its e-invoicing link, end to
 end. We are taking on 10 Odoo BIR projects for this deadline.
 
-Claim an Odoo BIR slot (opens the adviser form on our website):
+Claim an Odoo BIR slot:
 https://technext.asia/bir-e-invoicing#talk
 
 BIR in Odoo:
@@ -19,103 +20,163 @@ https://technext.asia/odoo/philippines
 First come, first served. Not sure if you are covered? Your readiness
 check answers that first.
 
-
-ODOO BIR SETUP SLOTS FOR THE 31 DECEMBER DEADLINE
+Odoo BIR setup slots for the 31 December deadline
 
 [1] [2] [3] [4] [5] [6] [7] [8] [9] [10]
+
 Limited to the first 10 clients.
 
+Why only 10
 
-WHY ONLY 10: EVERY SLOT GETS OUR OWN EXPERTS, START TO FINISH
+Because every slot gets our own experts, start to finish
 
-An Odoo BIR project is not a switch you flip. Your PTI comes before
-your first e-invoice, the link to the BIR has to be tested on your
-data, and every branch has to issue the same way. We do that with our
-own team, not contractors, so we only take on what we can get live
-properly before the date.
+An Odoo BIR project is not a switch you flip. Your PTI comes before your
+first e-invoice, the link to the BIR has to be tested on your data, and
+every branch has to issue the same way. We do that with our own team,
+not contractors, so we only take on what we can get live properly before
+the date.
 
+What waiting costs you
 
-EVERY BIR HEADACHE, SOLVED IN ODOO
+Every BIR headache, solved in Odoo
 
-- Your invoices can't reach the BIR. A printed or emailed PDF is not an
-  e-invoice.
-  In Odoo: Odoo issues the invoice, and we build and test its link to
-  the BIR's EIS.
-- 2307s typed by hand every quarter.
-  In Odoo: Odoo 20 generates BIR 2306 and 2307 certificates from your
-  vendor bills.
-- SLSP, SAWT and QAP rebuilt in Excel.
-  In Odoo: Odoo produces them from the same entries as your books, with
-  DAT exports.
-- Branches doing it their own way. The rule covers head office and
-  every branch.
-  In Odoo: one Odoo database gives every branch the same invoice flow.
-- Digging for documents when an examiner calls.
-  In Odoo: posted entries keep their history and attachments together.
+Your invoices can't reach the BIR
 
+A printed or emailed PDF is not an e-invoice.
 
-YOUR ODOO BIR SLOT INCLUDES
+In Odoo: Odoo issues the invoice, and we build and test its link to the
+BIR's EIS.
 
-- BIR readiness check - with your accountant: covered now, later or
-  exempt, and what is missing.
-- Odoo Philippine localisation - taxes, withholding, invoice layouts and
-  your Book of Accounts, set up on your real data.
-- BIR reports from Odoo - 2307, SLSP, SAWT, QAP and the 2550Q VAT
-  summary, from the same entries as your books.
-- Odoo-to-EIS link - built and tested on a copy of your Odoo database
-  before anything goes live.
-- PTI application support - process flow and sample invoices taken
-  straight from your Odoo.
-- Go-live and Odoo support - credit-note and downtime flows ready on day
-  one, then support from the team that set it up.
+2307s typed by hand every quarter
+
+Chasing and re-typing withholding certificates.
+
+In Odoo: Odoo 20 generates BIR 2306 and 2307 certificates from your
+vendor bills.
+
+SLSP, SAWT and QAP rebuilt in Excel
+
+Month-end depends on one spreadsheet and one person.
+
+In Odoo: Odoo produces them from the same entries as your books, with
+DAT exports.
+
+Branches doing it their own way
+
+The rule covers head office and every branch.
+
+In Odoo: One Odoo database gives every branch the same invoice flow.
+
+Digging for documents when an examiner calls
+
+Files spread across email, drives and desks.
+
+In Odoo: Posted entries in Odoo keep their history and attachments
+together.
+
+Your Odoo BIR slot includes
+
+Everything from "are we covered?" to e-invoicing in Odoo
+
+BIR readiness check
+
+With your accountant: covered now, later or exempt, and what is missing.
+
+Odoo Philippine localisation
+
+Taxes, withholding, invoice layouts and your Book of Accounts, set up on
+your real data.
+
+BIR reports from Odoo
+
+2307, SLSP, SAWT, QAP and the 2550Q VAT summary, from the same entries
+as your books.
+
+Odoo-to-EIS link
+
+Built and tested on a copy of your Odoo database before anything goes
+live.
+
+PTI application support
+
+Process flow and sample invoices taken straight from your Odoo.
+
+Go-live and Odoo support
+
+Credit-note and downtime flows ready on day one, then support from the
+team that set it up.
 
 Plus: start your Odoo with us and your website and brand come with it.
 You don't need to hire your own team.
 
+Who should claim a slot
 
-WHO SHOULD CLAIM A SLOT
+You must issue e-invoices by 31 December 2026 if you are
 
-You must issue e-invoices by 31 December 2026 if you are:
-- A small, medium or large taxpayer selling through e-commerce or
-  internet transactions
-- Under the Large Taxpayers Service, or a large taxpayer under the Ease
-  of Paying Taxes Act
-- On CAS or CBA with e-invoicing or other invoicing software
+A small, medium or large taxpayer selling through e-commerce or internet
+transactions
+
+Under the Large Taxpayers Service, or a large taxpayer under the Ease of
+Paying Taxes Act
+
+On CAS or CBA with e-invoicing or other invoicing software
 
 Micro taxpayers are exempt. Under RR 26-2025 and RMC 98-2026; your
 readiness check confirms your group.
 
+From slot to live
 
-FOUR STEPS TO BIR E-INVOICING IN ODOO
+Four steps to BIR e-invoicing in Odoo
 
-01 Claim your slot - tell us about your business on our website. An
-   adviser replies and books your readiness check.
-02 Readiness check - we confirm your BIR group with your accountant and
-   map every invoice flow, including branches.
-03 Odoo setup and EIS link - localisation, BIR reports and the
-   e-invoicing link, tested on your own data.
-04 PTI, go-live, stay on - your PTI application uses outputs from your
-   Odoo. Then we stay on as your Odoo support.
+01
 
+Claim your slot
 
-STRAIGHT TALK, NO "BIR-ACCREDITED" CLAIMS
+Tell us about your business on our website. An adviser replies and books
+your readiness check.
 
-In its 14 September 2026 advisory, the BIR said it has not accredited
-or endorsed any software or e-invoicing provider. Your PTI and CAS
+02
+
+Readiness check
+
+We confirm your BIR group with your accountant and map every invoice
+flow, including branches.
+
+03
+
+Odoo setup and EIS link
+
+Localisation, BIR reports and the e-invoicing link, tested on your own
+data.
+
+04
+
+PTI, go-live, stay on
+
+Your PTI application uses outputs from your Odoo. Then we stay on as
+your Odoo support.
+
+Straight talk, no "BIR-accredited" claims
+
+In its 14 September 2026 advisory, the BIR said it has not accredited or
+endorsed any software or e-invoicing provider. Your PTI and CAS
 applications are filed with the BIR in your company's name. We tell you
 plainly what Odoo does, what we build, and what you still file.
+BIR rules for your accounting system:
 https://technext.asia/blog/bir-rules-for-your-accounting-system
+.
 
-
-SEE YOUR BIR REPORTS IN ODOO BEFORE YOU CLAIM A SLOT
+See your BIR reports in Odoo before you claim a slot
 
 2307, SLSP, QAP, SAWT and the 2550Q VAT summary as Odoo produces them.
 Fictitious company and figures, for illustration.
+
+Download the sample reports (PDF):
 https://technext.asia/assets/docs/technext-sample-bir-reports.pdf
 
+Limited to the first 10 clients
 
-LIMITED TO THE FIRST 10 CLIENTS
-CLAIM ONE OF THE 10 ODOO BIR SETUP SLOTS.
+Claim one of the 10 Odoo BIR setup slots.
 
 The deadline is 31 December 2026 and the PTI comes first. Leave your
 details on our website and an adviser will reply, check whether you are
@@ -127,22 +188,35 @@ https://technext.asia/bir-e-invoicing#talk
 Read the BIR guide:
 https://technext.asia/bir-e-invoicing
 
-Questions first? Reply to this email or write to sales@technext.asia.
-An adviser will answer.
+Questions first? Reply to this email or write to sales@technext.asia. An
+adviser will answer.
 
---
-TechNext - your trusted expert adviser for ERP and compliance.
-Philippines: Level 9, IP Center (Intellectual Property Center),
-Taguig City, Metro Manila 1634
-sales@technext.asia - hello@technext.asia - https://technext.asia/
+TechNext:
+https://technext.asia/
+
+Your trusted expert adviser for ERP and compliance.
+
+Philippines: Level 9, IP Center (Intellectual Property Center), Taguig
+City, Metro Manila 1634
+
+sales@technext.asia - hello@technext.asia
+
+technext.asia:
+https://technext.asia/
 
 You are receiving this because you gave TechNext your email address or
-asked us about Odoo or BIR compliance. If that is no longer of
-interest, unsubscribe and we will stop. This email is general
-information, not tax advice; confirm your coverage with your accountant
-or Revenue District Office. Odoo is a separate subscription.
+asked us about Odoo or BIR compliance. If that is no longer of interest,
+unsubscribe below and we will stop. This email is general information,
+not tax advice; confirm your coverage with your accountant or Revenue
+District Office. Odoo is a separate subscription.
 
-TECHNEXT PTE. LTD. (UEN 202699888G)
-261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
+TECHNEXT PTE. LTD. (UEN 202699888G) - 261 Waterloo Street, #03-36,
+Waterloo Centre, Singapore 180261
 
 Unsubscribe: {{ unsubscribe }}
+
+Contact us:
+https://technext.asia/company
+
+Privacy policy:
+https://technext.asia/privacy

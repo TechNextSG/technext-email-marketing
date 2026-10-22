@@ -490,8 +490,8 @@
               <span>Recommended. The brand line as a subject.</span></li>
           <li>Which Odoo apps do you actually need?
               <span>Question hook; the body answers it.</span></li>
-          <li>How St. Clare, BHD Asia and JR-Tech set up Odoo
-              <span>Social proof; names are on the approved client list.</span></li>
+          <li>Companies we&rsquo;ve worked with, and how we advise
+              <span>Social proof. Keep the site&rsquo;s wording: these are clients, not necessarily Odoo projects.</span></li>
         </ol>
 
         <h3>Preheader</h3>
@@ -587,13 +587,12 @@
     <ol>
       <li>Brevo → <b>Campaigns</b> → <code>/campaigns/listing</code> → <b>Create a campaign</b> → Email.
           (The <code>/campaigns/list/email</code> URL is broken in this account — it renders an error page.)</li>
-      <li>Sender: <b>TechNext &lt;hello@technextasia.com&gt;</b> — <b>not yet available.</b> Brevo refuses to
-          create a sender on this domain until the domain is authenticated, because
-          <code>technextasia.com</code> is at DMARC <code>p=quarantine</code>
-          (<i>"Your DMARC policy requires your domain to be authenticated before creating a sender"</i>).
-          Add the DNS records first — see <code>00. TechNext Folder\DNS-Email-Authentication-Setup.md</code>.
-          The only currently verified sender is <code>hello@technext.asia</code>, which is not the domain
-          we send from.</li>
+      <li>Sender: <b>TechNext &lt;hello@technextasia.com&gt;</b>, reply-to <b>hello@technext.asia</b>.
+          Checked 22 Oct 2026: <code>technextasia.com</code> has SPF (Google + Brevo), both Brevo DKIM keys and
+          DMARC <code>p=quarantine</code>, and Brevo shows the domain authenticated. Never send from
+          <code>hello@technext.asia</code>: that domain is not authenticated in Brevo and has no SPF or DKIM.</li>
+      <li>Only opted-in contacts (Philippine Data Privacy Act: consent must be recorded). No cold lists, and
+          import the unsubscribe/suppression list before any re-import.</li>
       <li>Subject + preheader: copy them from the campaign card above. Brevo calls the preheader
           "preview text".</li>
       <li>Design → <b>Paste your code</b> → clear the box → paste the HTML from <b>Copy HTML</b>.
@@ -606,6 +605,16 @@
           cover most of what breaks.</li>
       <li>Only then pick the list and schedule.</li>
     </ol>
+
+    <h3>The 10-slot offer</h3>
+    <p>Emails 04-08 say Odoo BIR setup is limited to the first 10 clients. Keep a count of claimed slots
+       (Odoo CRM). When all 10 are taken, stop 04 and remove the ribbon from 05-08 before any further send.
+       Never add "X slots left" unless sales confirms the number that day.</p>
+
+    <h3>Sender logo (the round avatar in Gmail)</h3>
+    <p>Gmail shows the sender&rsquo;s Google profile photo or a BIMI logo, never anything inside the email.
+       Profile photo: <code>assets/technext-sender-avatar-512.png</code> on the hello@technextasia.com Google account.
+       BIMI logo (SVG Tiny PS): <code>assets/technext-bimi.svg</code>; Gmail also needs a VMC or CMC certificate.</p>
 
     <h3>Merge tags</h3>
     <p>Nothing on this page depends on a merge tag, so the templates render cleanly in a browser and
