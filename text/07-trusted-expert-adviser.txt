@@ -1,6 +1,6 @@
 Odoo BIR setup before 31 December 2026 - limited to the first 10
 clients:
-https://technext.asia/bir-e-invoicing#talk
+https://technext.asia/bir-adviser-call#book
 
 Your trusted expert adviser - ERP and compliance
 
@@ -12,7 +12,7 @@ that apply, recommend what fits and say why, then our own experts set up
 your Odoo.
 
 Book a discovery call:
-https://technext.asia/#talk
+https://technext.asia/bir-adviser-call#book
 
 See our work:
 https://technext.asia/case-studies
@@ -67,10 +67,10 @@ apply to you, and send a written recommendation and a quotation that
 follows it.
 
 Book a discovery call:
-https://technext.asia/#talk
+https://technext.asia/bir-adviser-call#book
 
 Explore BIR set-up:
-https://technext.asia/free-website-with-odoo#claim
+https://technext.asia/bir-adviser-call#book
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.

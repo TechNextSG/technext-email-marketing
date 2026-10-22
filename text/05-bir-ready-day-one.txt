@@ -1,6 +1,6 @@
 Odoo BIR setup before 31 December 2026 - limited to the first 10
 clients:
-https://technext.asia/bir-e-invoicing#talk
+https://technext.asia/bir-adviser-call#book
 
 BIR requirements from day one - Philippines
 
@@ -12,7 +12,7 @@ We set Odoo up for Philippine tax rules first, so your invoices, 2307s
 and reports follow that set-up from the start.
 
 Book a discovery call:
-https://technext.asia/bir-cas#talk
+https://technext.asia/bir-adviser-call#book
 
 How BIR CAS works:
 https://technext.asia/bir-cas
@@ -100,7 +100,7 @@ Tell us your biggest BIR headache and an adviser will show you how Odoo
 handles it.
 
 See how Odoo handles it:
-https://technext.asia/free-website-with-odoo#claim
+https://technext.asia/bir-adviser-call#book
 
 BIR requirements from day one
 
@@ -110,10 +110,10 @@ Book a discovery call and an adviser will map your VAT set-up, invoices
 and BIR reports, then recommend what to set up first.
 
 Book a discovery call:
-https://technext.asia/bir-cas#talk
+https://technext.asia/bir-adviser-call#book
 
 Explore BIR set-up:
-https://technext.asia/free-website-with-odoo#claim
+https://technext.asia/bir-adviser-call#book
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.

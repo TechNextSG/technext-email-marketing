@@ -1,6 +1,6 @@
 Odoo BIR setup before 31 December 2026 - limited to the first 10
 clients:
-https://technext.asia/bir-e-invoicing#talk
+https://technext.asia/bir-adviser-call#book
 
 Why set up Odoo with TechNext
 
@@ -12,10 +12,10 @@ reasons Philippine businesses set up Odoo with TechNext, and our own
 experts do the work.
 
 Book a discovery call:
-https://technext.asia/#talk
+https://technext.asia/bir-adviser-call#book
 
 Explore BIR set-up:
-https://technext.asia/free-website-with-odoo#claim
+https://technext.asia/bir-adviser-call#book
 
 One call with an adviser covers all three: your BIR set-up, your rollout
 plan and the apps you actually need.
@@ -122,10 +122,10 @@ a written recommendation with a clear rollout plan. Your Odoo is set up
 for BIR requirements before your first invoice.
 
 Book a discovery call:
-https://technext.asia/#talk
+https://technext.asia/bir-adviser-call#book
 
 Explore BIR set-up:
-https://technext.asia/free-website-with-odoo#claim
+https://technext.asia/bir-adviser-call#book
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.

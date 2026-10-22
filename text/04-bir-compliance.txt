@@ -13,7 +13,7 @@ link, end to end. We are taking on 10 Odoo BIR projects for this
 deadline.
 
 Claim an Odoo BIR slot:
-https://technext.asia/bir-e-invoicing#talk
+https://technext.asia/bir-adviser-call#book
 
 BIR in Odoo:
 https://technext.asia/odoo/philippines
@@ -186,7 +186,7 @@ details on our website and an adviser will reply, walk you through the
 rules that may apply, and hold your slot.
 
 Claim your Odoo BIR slot:
-https://technext.asia/bir-e-invoicing#talk
+https://technext.asia/bir-adviser-call#book
 
 Read the BIR guide:
 https://technext.asia/bir-e-invoicing

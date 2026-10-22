@@ -1,6 +1,6 @@
 Odoo BIR setup before 31 December 2026 - limited to the first 10
 clients:
-https://technext.asia/bir-e-invoicing#talk
+https://technext.asia/bir-adviser-call#book
 
 Live in as little as 5 days
 
@@ -11,7 +11,7 @@ what gets set up, when, and who signs off. A starter set-up of Odoo
 Invoicing and Accounting can be live in as little as 5 days.
 
 Book a discovery call:
-https://technext.asia/#talk
+https://technext.asia/bir-adviser-call#book
 
 Get a quotation:
 https://technext.asia/quotation
@@ -70,10 +70,10 @@ Book a discovery call. An adviser maps how you work today and writes the
 plan: what gets set up, when, and who signs off.
 
 Book a discovery call:
-https://technext.asia/#talk
+https://technext.asia/bir-adviser-call#book
 
 Explore BIR set-up:
-https://technext.asia/free-website-with-odoo#claim
+https://technext.asia/bir-adviser-call#book
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.
