@@ -36,7 +36,7 @@ Three production-ready HTML email campaigns for TechNext, plus a preview hub tha
 
 ## Where the copy comes from
 
-Nothing is invented. The headline, sub-copy, stats (10+ countries, 11+ enterprise clients,
+Nothing is invented. The headline, sub-copy, stats (25+ countries, 90+ enterprise clients,
 4 core AI disciplines), the four capability descriptions, the industry list, the client names
 (Qualcomm, TSMC, Singapore Government) and the partner badges are taken from technext.asia as
 read on 2026-08-12. The booking link `technext.odoo.com/book/c82cf8a9` and WhatsApp number
