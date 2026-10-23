@@ -2,76 +2,84 @@ TECHNEXT INSIGHTS - AUGUST 2026
 
 WHAT WE ARE READING, BUILDING AND ARGUING ABOUT
 
-Three pieces this month, all from work we actually did: what
-Singapore's new AI money means if you are not a research lab, the six
-ways we have put AI inside a live Odoo system, and the honest cost of
-keeping a model on your own hardware.
+Three pieces this month, all from the projects we plan with clients:
+when InvoiceNow reaches your business in Singapore, who BIR e-invoicing
+covers in the Philippines, and how to choose between Odoo Online,
+Odoo.sh and your own servers.
 
 No product pitch below. If something is useful, reply and tell us -
 that is how we pick next month's topics.
 
 
-01. POLICY & FUNDING
-Singapore's National AI Strategy 2.0: what businesses need to know
+01. SINGAPORE - GST
+InvoiceNow for GST-registered businesses: the dates, and what to do now
 
-SGD 1B in new AI funding, enterprise tax breaks and a procurement
-fast-track. What the 2026 strategy means for a normal company, and how
-to actually apply.
-https://technext.asia/ai-article/singapore-national-ai-strategy-2026.html
-
-
-02. ODOO & AI
-Integrating AI with Odoo ERP: a step-by-step guide
-
-Your Odoo can run AI today, with no rebuild. Six patterns we have
-shipped to production in manufacturing and logistics, in the order we
-usually ship them.
-https://technext.asia/ai-article/odoo-ai-integration-guide.html
+InvoiceNow is becoming mandatory for every GST-registered business, in
+phases that run to April 2031. When your business is due, who is
+exempt, and how to prepare your accounting system.
+https://technext.asia/blog/invoicenow-singapore-gst-timeline
 
 
-03. SECURITY & INFRASTRUCTURE
-Local LLM deployment: running AI on-premise
+02. PHILIPPINES - BIR
+BIR e-invoicing requirements: who is covered, the deadline and how to
+prepare in Odoo
 
-For the businesses whose data cannot leave the network: hardware
-specs, vLLM configuration and the gotchas that only show up after
-go-live.
-https://technext.asia/ai-article/local-llm-on-premise-enterprise.html
+Covered taxpayers must issue electronic invoices by 31 December 2026.
+Who is covered, what the new rules ask for, and what preparing your
+Odoo database involves.
+https://technext.asia/blog/bir-e-invoicing-odoo
+
+
+03. HOSTING & INFRASTRUCTURE
+Odoo Online, Odoo.sh or on-premise: which hosting fits?
+
+Odoo runs in Odoo's cloud, on Odoo's developer platform or on servers
+you control. The choice turns on one question more than any other:
+will you need custom code?
+https://technext.asia/blog/odoo-online-vs-odoo-sh-vs-on-premise
 
 
 ONE THING TO TRY THIS MONTH
 
-Time a single quote from inquiry to sent, end to end, and write down
-every place the same information is typed again. Most teams find three.
-That list - not a software demo - is what tells you whether automation
-is worth paying for, and which part to fix first.
+Time a single quote from enquiry to sent, end to end, and write down
+every place the same information is typed again. The list is usually
+longer than expected. That list - not a software demo - is what tells
+you whether automation is worth paying for, and which part to fix
+first.
 
 
-CLIENT SPOTLIGHT
+COMPANIES WE'VE WORKED WITH
 
-[CLIENT NAME] - [what we built, in six words]
-[Two sentences: what was breaking before, and what changed after
-go-live. Use one measured number the client has agreed to publish. If
-there is no approved number, describe the change qualitatively instead
-of inventing one.]
-More of our work: https://technext.asia/gallery/
+Delivered and in-progress projects, in 10+ countries: BHD Asia,
+HummingBeing, Casa Escondida Anilao, Immaculate Connections, St. Clare
+College of Caloocan, JR-Tech Solution, nivellipso(R) and HDH AG, among
+others. Ask us to walk you through a project like yours.
+See more of our work: https://technext.asia/case-studies
 
 
 WANT THE VERSION OF THIS THAT APPLIES TO YOUR BUSINESS?
 
-One hour, your workflow, our honest read on what is worth automating
-and what is not.
+Your workflow, and an adviser's honest read on what is worth setting up
+first and what is not.
 
-Book a free session: https://technext.odoo.com/book/c82cf8a9
+Book a discovery call: https://technext.asia/bir-adviser-call#book
 Visit our website: https://technext.asia/
 
 ---
 TechNext
-hello@technextasia.com | https://technext.asia
-All articles: https://technext.asia/blog/
+Philippines: Level 9, IP Center, Taguig City, Metro Manila 1634
+sales@technext.asia | https://technext.asia
+All articles: https://technext.asia/blog
 
 TECHNEXT PTE. LTD. (UEN 202699888G)
 261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
 
 You are receiving TechNext Insights because you subscribed or gave us
-your email address. One email a month.
+your email address. One email a month. This newsletter is general
+information, not tax advice; confirm your coverage with your accountant
+or Revenue District Office. Odoo is a separate subscription. TechNext is
+not affiliated with the Bureau of Internal Revenue or any government
+agency.
+Contact us: https://technext.asia/company
+Privacy policy: https://technext.asia/privacy
 Unsubscribe: {{ unsubscribe }}

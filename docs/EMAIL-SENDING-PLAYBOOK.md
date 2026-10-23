@@ -1,6 +1,6 @@
 # TechNext email marketing: sending playbook
 
-Campaigns 04-08 (BIR compliance, 10 Odoo BIR slots). Brevo drafts #29-#33. Written 22 Oct 2026.
+Campaigns 04-08 (BIR CAS hook series: one question each, then our service). Brevo drafts #29-#33. Written 22 Oct 2026, series rewritten 23 Oct 2026.
 
 ## 1. Who we send to (consent first)
 
@@ -33,23 +33,19 @@ The domain is young and the April 2026 cold blasts (about 5,500 sends) may have 
 
 If any limit is broken: stop, find out why, fix the list. Do not send to "everyone" in one go.
 
-Suggested order: 08 (all three values) first, then 04 (10-slot offer) a week later, then 05, 06, 07 a week apart. Skip anyone who already booked a call. Resend to non-clickers at most once, with the alternative subject.
+Suggested order: 04 (is your system registered?) first, then 05, 06, 07 and 08 a week apart. Skip anyone who already booked a call. Resend to non-clickers at most once, with the alternative subject.
 
 Measure clicks, form submissions and replies. Ignore open rates (Apple Mail opens everything).
 
-## 3. The 10-slot promise
+## 3. Keep every fact true
 
-Emails 04-08 say "limited to the first 10 clients". It must stay true.
-- Owner: Jeric. When an adviser confirms a slot, tag the Odoo CRM opportunity `BIR slot 2026`.
-- Check the count before every send.
-- At 10: stop 04, remove the yellow strip from 05-08, and tell the team.
-- Never write "X slots left" unless the count is confirmed that day.
+Every fact in 04-08 comes from technext.asia/bir-cas. Before each send, check that page has not changed (new RMC, a published list of accredited e-invoicing providers, new dates). The old 10-slot offer was removed on 23 Oct 2026: it is not on the website.
 
 ## 4. Replies
 
-- Replies go to hello@technext.asia; the emails also show sales@technext.asia. Both inboxes must be read every working day.
+- Replies go to hello@technext.asia (Brevo reply-to); the emails show sales@technext.asia, the address on the website. Both inboxes must be read every working day.
 - Answer within one working day.
-- Slot requests and enquiries go into Odoo CRM, unassigned, with @Jeric mentioned (he takes them himself).
+- Adviser-call requests and enquiries go into Odoo CRM, unassigned, with @Jeric mentioned (he takes them himself).
 - Unsubscribe requests sent by reply: unsubscribe them in Brevo the same day.
 
 ## 5. Account fixes (owner)
@@ -84,7 +80,7 @@ Set `sender-logo/technext-sender-avatar-512.png` as the profile photo of the hel
 ## 6. Before every send
 
 - [ ] Contacts have recorded consent; suppression list loaded
-- [ ] Slot count checked (below 10)
+- [ ] technext.asia/bir-cas re-read; email facts still match
 - [ ] Test sent to hello@technextasia.com and hello@technext.asia, checked in Gmail web, Gmail app (dark mode) and Outlook
 - [ ] Audience size within the warm-up step
 - [ ] Someone is reading replies that day

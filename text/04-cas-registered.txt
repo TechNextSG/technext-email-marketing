@@ -1,0 +1,89 @@
+E-invoicing is due by 31 December 2026 for covered taxpayers, including
+businesses on a CAS or CBA with invoicing software.
+https://technext.asia/bir-e-invoicing
+
+BIR CAS in plain words - Philippines
+
+Is your accounting system registered with the BIR?
+
+If you are not sure, that is the first thing to check. The BIR registers
+your business's use of a system, at your Revenue District Office (RDO). It
+does not register a software brand.
+
+Book a free adviser call:
+https://technext.asia/bir-adviser-call#book
+
+How BIR CAS set-up works:
+https://technext.asia/bir-cas
+
+---
+
+What a CAS is
+A Computerized Accounting System (CAS) records your transactions, generates
+your invoices and produces your books of accounts and BIR reports.
+
+What you register: Your use of a system, at your RDO, not a software brand
+What you receive: An Acknowledgement Certificate (AC) with an AC control
+number
+How long: Per RMC 5-2021, three working days after a complete application;
+the RDO decides
+Every year: Computerised books registered online in ORUS
+
+What TechNext does: Six steps from "is it registered?" to your filing
+
+- Map your registration path. CAS or CBA, head office and branches, any old
+  Permit to Use.
+- Set up Odoo. Philippine localisation, audit trail, secured journals, lock
+  dates, user roles, invoice layout and series.
+- Prepare the samples. Invoices, books, reports and the audit trail
+  printout, taken straight from your Odoo.
+- You file at your RDO. In person or by email. We stay on call for the RDO's
+  questions.
+- ORUS every year. You register your computerised books online and keep the
+  QR code on file. We prepare the book exports from Odoo.
+- E-invoicing and upgrades. If you are covered, you apply for your Permit to
+  Issue and EIS Certification. We prepare the Odoo outputs and assess the
+  EIS connection separately.
+
+Who does what:
+- Set up: By TechNext, in Odoo
+- Samples: Printed with you
+- Filed: By you, at your RDO
+- AC: The RDO's decision
+
+P.S. Start Odoo with TechNext and your website and brand kit come with it.
+Odoo itself is a separate subscription.
+
+---
+
+Not sure where you stand? Ask us.
+Tell us how you invoice and keep your books today. An adviser will say what
+a CAS registration would involve for you, what Odoo covers, and what you
+file at your RDO.
+
+Book a free adviser call:
+https://technext.asia/bir-adviser-call#book
+
+How BIR CAS set-up works:
+https://technext.asia/bir-cas
+
+Questions first? Reply to this email or write to sales@technext.asia. An
+adviser will answer.
+
+---
+
+TechNext is an Odoo Ready Partner. We are not affiliated with the Bureau of
+Internal Revenue; registration is done by each taxpayer at its own RDO and
+the decision is the BIR's. General guidance, not tax advice - confirm with
+your accountant or RDO.
+
+TechNext Pte. Ltd. (UEN 202699888G)
+Philippines: Level 9, IP Center (Intellectual Property Center), Taguig City,
+Metro Manila 1634
+Singapore: 261 Waterloo Street #03-36, Singapore 180261
+sales@technext.asia
+
+Contact us: https://technext.asia/company
+Privacy policy: https://technext.asia/privacy
+View in browser: {{ mirror }}
+Unsubscribe: {{ unsubscribe }}

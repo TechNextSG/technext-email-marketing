@@ -1,0 +1,88 @@
+E-invoicing is due by 31 December 2026 for covered taxpayers, including
+businesses on a CAS or CBA with invoicing software.
+https://technext.asia/bir-e-invoicing
+
+BIR CAS in plain words - Philippines
+
+CAS or CBA: which one does your business need?
+
+It comes down to your invoices. RMO 9-2021 draws the line there: if your
+system issues them, it is a CAS. If invoices are issued by hand, the system
+counts as a CBA.
+
+Book a free adviser call:
+https://technext.asia/bir-adviser-call#book
+
+Read the CAS and CBA guide:
+https://technext.asia/blog/register-odoo-cas-cba-bir
+
+---
+
+CAS or CBA
+CAS (Computerized Accounting System):
+- What it covers: The full cycle, from the transaction and the invoice to
+  the financial reports
+- Invoices: System-generated
+- Who must use it: Large taxpayers must maintain or use a CAS (RR 9-2009,
+  restated in RMO 9-2021)
+- Cloud set-ups (both): Registered too. Odoo Online or Odoo.sh needs a joint
+  sworn statement with the provider that the system cannot suppress sales.
+
+CBA (Computerized Books of Accounts):
+- What it covers: Books of accounts only: journals, ledger, sales and
+  purchase books, inventory book
+- Invoices: Issued manually (a system that issues invoices by hand counts as
+  a CBA)
+- Who must use it: Optional for non-large taxpayers, who may choose a CAS or
+  a CBA
+
+What TechNext does: An adviser maps your registration path first
+
+You do not need to hire your own team. Before any set-up, an adviser works
+out these four things with you:
+
+- CAS or CBA. Which one fits how you invoice and keep your books today.
+- Head office and branches. Affiliates and branches register separately,
+  even on a shared system.
+- Any old Permit to Use. A PTU stays valid unless it is revoked or the
+  system has a major enhancement.
+- E-invoicing. Whether it applies to you now, checked with your accountant.
+
+Who does what:
+- Set up: By TechNext, in Odoo
+- Samples: Printed with you
+- Filed: By you, at your RDO
+- AC: The RDO's decision
+
+---
+
+Not sure which one you need? Ask us.
+Tell us how you invoice and keep your books today. An adviser will say
+whether you need a CAS or a CBA, and what it takes to file.
+
+Book a free adviser call:
+https://technext.asia/bir-adviser-call#book
+
+Read the CAS and CBA guide:
+https://technext.asia/blog/register-odoo-cas-cba-bir
+
+Questions first? Reply to this email or write to sales@technext.asia. An
+adviser will answer.
+
+---
+
+TechNext is an Odoo Ready Partner. We are not affiliated with the Bureau of
+Internal Revenue; registration is done by each taxpayer at its own RDO and
+the decision is the BIR's. General guidance, not tax advice - confirm with
+your accountant or RDO.
+
+TechNext Pte. Ltd. (UEN 202699888G)
+Philippines: Level 9, IP Center (Intellectual Property Center), Taguig City,
+Metro Manila 1634
+Singapore: 261 Waterloo Street #03-36, Singapore 180261
+sales@technext.asia
+
+Contact us: https://technext.asia/company
+Privacy policy: https://technext.asia/privacy
+View in browser: {{ mirror }}
+Unsubscribe: {{ unsubscribe }}

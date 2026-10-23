@@ -6,8 +6,9 @@ that closes it should be one record - not four files owned by four
 people. That is what Odoo does, and configuring it around your real
 workflow is what we do.
 
-Book a demo with your data (we load your products and pricing first):
-https://technext.odoo.com/book/c82cf8a9
+Book a discovery call (an adviser walks you through Odoo screens for
+your own business):
+https://technext.asia/bir-adviser-call#book
 
 Visit our website:
 https://technext.asia/
@@ -25,77 +26,84 @@ THREE SIGNS YOUR BUSINESS HAS OUTGROWN ITS TOOLS
 
 THE MODULES THAT CARRY A BUSINESS
 
-Start with the two that hurt most. Add the rest when the first ones are
-earning their keep.
+The first phase usually covers Accounting, Sales and Inventory. The rest
+follow on the same database as you need them.
 
-- Sales & CRM - every inquiry in one pipeline with an owner and a next
-  step. Quotes out the same day.
+- Sales & CRM - every enquiry in one pipeline with an owner and a next
+  step, so none goes cold.
 - POS & Inventory - counter sales that move real stock, with reorder
   rules instead of end-of-week surprises.
-- Accounting & GST - Singapore chart of accounts, 9% GST codes and
-  reporting, bank reconciliation that runs itself.
+- Accounting, GST & BIR - set up for GST in Singapore and BIR
+  requirements in the Philippines (2307, SLSP, SAWT, QAP), with bank
+  sync and reconciliation.
 - Purchasing & Suppliers - purchase orders tied to the sale that needed
   them, and supplier prices that stay current.
-- HR & Payroll - leave, claims and timesheets off WhatsApp and out of a
+- HR & Payroll - leave, expenses and timesheets in one place, out of a
   spreadsheet nobody trusts.
-- Projects & Field Service - jobs, milestones and site visits that bill
-  themselves when the work is signed off.
+- Projects & Field Service - jobs, milestones and site visits invoiced
+  from the work that was signed off.
 
 
-SINGAPORE: INVOICENOW IS COMING TO GST-REGISTERED BUSINESSES
+SINGAPORE: INVOICENOW IS BEING PHASED IN FOR GST-REGISTERED BUSINESSES
 
-IRAS is phasing in a requirement for GST-registered businesses to
-transmit invoice data through InvoiceNow, Singapore's Peppol-based
-e-invoicing network, with existing registrants brought in by turnover
-band. Odoo can send on that network, and we set it up with your chart
-of accounts and GST codes rather than leaving it as a switch you
-discover later.
+Under the GST InvoiceNow Requirement, GST-registered businesses must
+send invoice data to IRAS through InvoiceNow, Singapore's Peppol-based
+network. Existing registrants are phased in by total annual supplies,
+from April 2028 to April 2031. We set up Odoo for GST, and for
+InvoiceNow through the Access Point you choose, as part of your
+Accounting set-up rather than a switch you discover later.
 
+Every date: https://technext.asia/blog/invoicenow-singapore-gst-timeline
 IRAS requirement:
 https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-invoicenow-requirement
 
 
-HOW AN IMPLEMENTATION RUNS - WEEKS, NOT MONTHS
+HOW AN IMPLEMENTATION RUNS - FOUR STEPS, STANDARD ODOO FIRST
 
-01. Discovery - we follow one order and one invoice through your
-    business as it works today, and write down every hand-off.
-02. Configuration - your products, pricing, taxes, documents and
-    approval rules configured, not customised, wherever standard Odoo
-    already does the job.
-03. Data migration & training - customers, products and open balances
-    brought across, then training by role so people learn their screen,
-    not the whole system.
-04. Go-live and support - we are on hand through the first month-end,
-    the point where every ERP rollout is actually tested.
-
-
-THE PART MOST ODOO PARTNERS CANNOT DO
-
-We are an AI company that implements ERP. Once your data lives on one
-record, the same platform can chase follow-ups, answer customer
-questions from your own documents and draft the reports someone
-currently assembles by hand - with on-premise deployment where your
-data cannot leave your network.
+01. Discovery - we map how orders, stock and money move today, with the
+    people who run them. You leave with a process map, a written scope
+    and a quotation.
+02. Configuration & data migration - on a staging copy, never your live
+    database: standard Odoo first, then your customers, products and
+    open balances cleaned, loaded and reconciled.
+03. Training & integration - training by role, on your own data, so
+    people learn their own screens. Then banks, payments, stores and
+    email connected.
+04. Go-live and support - a controlled cut-over, the first month-end
+    done together, then support for fixes, upgrades and small changes.
 
 
-SEE IT WITH YOUR OWN PRODUCTS IN IT
+ODOO AND AI FROM ONE TEAM
 
-Send us a price list and a sample quote. We will load them into Odoo
-and walk you through your own process, not a generic sandbox with
-fictional bicycles.
+The team that implements your Odoo also builds AI inside it: vendor
+bills read and matched to purchase orders, replies drafted and
+questions answered from your own data. Anything that posts, pays or
+commits waits for a person to approve it, with private-cloud or
+on-premise models where data cannot leave.
 
-Book an Odoo demo: https://technext.odoo.com/book/c82cf8a9
+
+SEE IT WITH YOUR OWN BUSINESS IN IT
+
+Tell us how you quote, invoice and close the month. On the call, an
+adviser walks you through Odoo screens for your own business and plans
+which apps to start with, and why.
+
+Book a discovery call: https://technext.asia/bir-adviser-call#book
 Visit our website: https://technext.asia/
-WhatsApp: https://wa.me/6588396998
-Or reply to this email.
+Questions first? Reply to this email or write to sales@technext.asia.
 
 ---
 TechNext
-hello@technextasia.com | +65 8839 6998 (WhatsApp) | https://technext.asia
+Philippines: Level 9, IP Center, Taguig City, Metro Manila 1634
+sales@technext.asia | https://technext.asia
 
 TECHNEXT PTE. LTD. (UEN 202699888G)
 261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
 
 You are receiving this because you gave TechNext your email address or
-asked us about Odoo ERP.
+asked us about Odoo ERP. Odoo is a separate subscription. TechNext is
+not affiliated with the Bureau of Internal Revenue or any government
+agency.
+Contact us: https://technext.asia/company
+Privacy policy: https://technext.asia/privacy
 Unsubscribe: {{ unsubscribe }}

@@ -1,0 +1,90 @@
+E-invoicing is due by 31 December 2026 for covered taxpayers, including
+businesses on a CAS or CBA with invoicing software.
+https://technext.asia/bir-e-invoicing
+
+BIR CAS in plain words - Philippines
+
+Would your system pass the RDO's checks?
+
+Worth knowing before you file. The RDO evaluates your system after it issues
+your certificate, using the requirements in Annex B of RMC 5-2021. If it
+finds gaps, it can revoke the certificate. So check first.
+
+Book a free adviser call:
+https://technext.asia/bir-adviser-call#book
+
+See the full CAS checklist:
+https://technext.asia/bir-cas
+
+---
+
+What the RDO looks at
+A sample of the requirements checklist (CAS requirements checklist, sample):
+- Audit trail, printable and protected
+- Posted entries voided, never edited
+- System-generated invoice numbers
+- User stamp on every record
+- Report headers with TIN and branch code
+- CSV or DAT exports; 2306, 2307, 2316
+- Unique user IDs and logged changes
+- Backups kept for ten years
+
+What Odoo 20 already has:
+- An audit trail that logs changes to accounting records
+- Posted entries secured with a hash chain, and irreversible hard lock dates
+- A Book of Accounts for CAS and CBA, and Philippine invoices updated for
+  BIR and CAS requirements
+- The Philippine localisation's reports: 2307, SLSP, SAWT, QAP and the 2550Q
+  summary
+
+Whether a set-up meets every item depends on its configuration and hosting.
+We review that with you before you apply; the RDO makes the evaluation.
+
+What TechNext sets up: Every item checked against your configuration
+
+- Annex B, item by item. Every Annex B item checked against your
+  configuration and hosting.
+- Invoice layout and series. Six running digits, your AC control number,
+  "REPRINT" on copies.
+- Users and report headers. User roles, password rules and report headers
+  with TIN, branch code and software version.
+- Backups. A backup plan that keeps your records for ten years.
+
+Who does what:
+- Set up: By TechNext, in Odoo
+- Samples: Printed with you
+- Filed: By you, at your RDO
+- AC: The RDO's decision
+
+---
+
+Want your system checked before you file?
+An adviser walks you through the Annex B requirements and what your Odoo
+set-up would need, before you apply.
+
+Book a free adviser call:
+https://technext.asia/bir-adviser-call#book
+
+See the full CAS checklist:
+https://technext.asia/bir-cas
+
+Questions first? Reply to this email or write to sales@technext.asia. An
+adviser will answer.
+
+---
+
+TechNext is an Odoo Ready Partner. We are not affiliated with the Bureau of
+Internal Revenue; registration is done by each taxpayer at its own RDO and
+the decision is the BIR's. General guidance, not tax advice - confirm with
+your accountant or RDO.
+
+TechNext Pte. Ltd. (UEN 202699888G)
+Philippines: Level 9, IP Center (Intellectual Property Center), Taguig City,
+Metro Manila 1634
+Singapore: 261 Waterloo Street #03-36, Singapore 180261
+sales@technext.asia
+
+Contact us: https://technext.asia/company
+Privacy policy: https://technext.asia/privacy
+View in browser: {{ mirror }}
+Unsubscribe: {{ unsubscribe }}

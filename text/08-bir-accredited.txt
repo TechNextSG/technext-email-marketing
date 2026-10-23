@@ -1,0 +1,90 @@
+E-invoicing is due by 31 December 2026 for covered taxpayers, including
+businesses on a CAS or CBA with invoicing software.
+https://technext.asia/bir-e-invoicing
+
+BIR CAS in plain words - Philippines
+
+Was your software sold as "BIR-accredited"?
+
+Be careful with that claim. The BIR registers your business's use of a
+system. It does not approve software brands, and it has said so in public.
+
+Book a free adviser call:
+https://technext.asia/bir-adviser-call#book
+
+BIR rules for your accounting system:
+https://technext.asia/blog/bir-rules-for-your-accounting-system
+
+---
+
+The short answer
+No software is BIR-accredited:
+What the BIR registers: Your business's use of a system. Not a software brand.
+14 September 2026: In a public advisory, the BIR said it has not accredited,
+certified or endorsed any e-invoicing service provider, and warned against
+claims such as "BIR-accredited".
+RMC 110-2026: Dated 12 October 2026. It sets the accreditation rules for
+e-invoicing service providers. No list had been published when we wrote
+this.
+
+What to look for instead:
+- Does it meet the Annex B requirements: an audit trail, posted entries
+  voided and never edited, system-generated invoice numbers, user stamps,
+  report headers with TIN and branch code, exports, unique user IDs,
+  backups?
+- Can it produce the sample invoices, books, reports and audit trail your
+  RDO asks for?
+- Will your business receive its own Acknowledgement Certificate (AC) from
+  your RDO?
+
+What TechNext does: Odoo set up for BIR requirements, with you
+
+- We set Odoo up for BIR requirements. Checked against Annex B, item by
+  item, for your configuration and hosting.
+- We prepare your samples with you. Invoices, books, reports and the audit
+  trail printout, from your own Odoo.
+- Odoo Ready Partner. That is what TechNext is. We are not affiliated with,
+  accredited by or acting for the BIR, and we do not file or register on
+  your behalf.
+
+Who does what:
+- Set up: By TechNext, in Odoo
+- Samples: Printed with you
+- Filed: By you, at your RDO
+- AC: The RDO's decision
+
+P.S. Start Odoo with TechNext and your website and brand kit come with it.
+Odoo is a separate subscription, in your company's name.
+
+---
+
+Been told your software is "BIR-accredited"?
+An adviser can walk you through what the BIR actually registers, and what
+your own registration would need.
+
+Book a free adviser call:
+https://technext.asia/bir-adviser-call#book
+
+BIR rules for your accounting system:
+https://technext.asia/blog/bir-rules-for-your-accounting-system
+
+Questions first? Reply to this email or write to sales@technext.asia. An
+adviser will answer.
+
+---
+
+TechNext is an Odoo Ready Partner. We are not affiliated with the Bureau of
+Internal Revenue; registration is done by each taxpayer at its own RDO and
+the decision is the BIR's. General guidance, not tax advice - confirm with
+your accountant or RDO.
+
+TechNext Pte. Ltd. (UEN 202699888G)
+Philippines: Level 9, IP Center (Intellectual Property Center), Taguig City,
+Metro Manila 1634
+Singapore: 261 Waterloo Street #03-36, Singapore 180261
+sales@technext.asia
+
+Contact us: https://technext.asia/company
+Privacy policy: https://technext.asia/privacy
+View in browser: {{ mirror }}
+Unsubscribe: {{ unsubscribe }}
