@@ -39,7 +39,7 @@ Three production-ready HTML email campaigns for TechNext, plus a preview hub tha
 Nothing is invented. The headline, sub-copy, stats (25+ countries, 90+ enterprise clients,
 4 core AI disciplines), the four capability descriptions, the industry list, the client names
 (Qualcomm, TSMC, Singapore Government) and the partner badges are taken from technext.asia as
-read on 2026-08-12. The booking link `technext.odoo.com/appointment/discovery-call-with-technext-2?invite_token=914012541b1242c1ae832faa66a6efdc&filter_appointment_type_ids=%5B2%5D&` and WhatsApp number
+read on 2026-08-12. The booking link `technext.odoo.com/book/c82cf8a9` and WhatsApp number
 +65 8839 6998 are the ones the live site uses. The legal footer is the ACRA record:
 TECHNEXT PTE. LTD., UEN 202699888G, 261 Waterloo Street #03-36, Waterloo Centre, Singapore 180261.
 
