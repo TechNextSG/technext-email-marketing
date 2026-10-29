@@ -6,17 +6,34 @@ BIR compliance · 5-Day Express - Philippines
 
 CAS or CBA: which one does your business need?
 
+Come have a coffee with us. It takes 5 minutes.
+Then our 5-Day Express Solution sets up your BIR compliance in Odoo in five
+working days, run as one sprint with our NextSprint method: Agile + Lean +
+Six Sigma. On the call we share the blueprint for your business.
+
+Book my 5-minute coffee call:
+https://technext.odoo.com/book/c82cf8a9
+Email or phone is all we need. We call you right away, Monday to Sunday, 8
+AM to 11 PM.
+
+5-DAY EXPRESS SOLUTION - 5 days. Not 5 months.
+Your sprint, day by day:
+- Before Day 1: Coffee call (5 minutes) and we map your processes
+- Day 1: Set up in Odoo
+- Day 2: BIR settings
+- Day 3: Load your data
+- Day 4: Test
+- Day 5: Hand-over
+Five working days for the Odoo set-up. Permits and registrations stay with
+you and the BIR.
+
+---
+
+CAS or CBA: which one does your business need?
+
 It comes down to your invoices. RMO 9-2021 draws the line there: if your
 system issues them, it is a CAS. If invoices are issued by hand, the system
 counts as a CBA.
-
-Book my 5-Day Express:
-https://technext.odoo.com/book/c82cf8a9
-
-Read the CAS and CBA guide:
-https://technext.asia/blog/register-odoo-cas-cba-bir
-
----
 
 CAS or CBA
 CAS (Computerized Accounting System):
@@ -48,18 +65,6 @@ out these four things with you:
   system has a major enhancement.
 - E-invoicing. Whether it applies to you now, checked with your accountant.
 
-5-DAY EXPRESS SOLUTION - 5 days. Not 5 months.
-We run your BIR compliance set-up in Odoo as one sprint, with our NextSprint
-method: Agile + Lean + Six Sigma.
-- Before Day 1: Coffee call (5 minutes) and we map your processes
-- Day 1: Set up in Odoo
-- Day 2: BIR settings
-- Day 3: Load your data
-- Day 4: Test
-- Day 5: Hand-over
-Five working days for the Odoo set-up. Permits and registrations stay with
-you and the BIR.
-
 Who does what:
 - Set up: By TechNext, in Odoo
 - Samples: Printed with you
@@ -75,14 +80,14 @@ CAS or CBA? Start your 5-Day Express.
 Tell us how you invoice and keep your books today. An adviser will say
 whether you need a CAS or a CBA, and what it takes to file.
 
-Book my 5-Day Express:
+Book my 5-minute coffee call:
 https://technext.odoo.com/book/c82cf8a9
-
-Read the CAS and CBA guide:
-https://technext.asia/blog/register-odoo-cas-cba-bir
 
 Email or phone is all we need. We call you right away, Monday to Sunday, 8
 AM to 11 PM.
+
+Want to read first? Read the CAS and CBA guide:
+https://technext.asia/blog/register-odoo-cas-cba-bir
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.

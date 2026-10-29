@@ -6,17 +6,34 @@ BIR compliance · 5-Day Express - Philippines
 
 Is your accounting system registered with the BIR?
 
+Come have a coffee with us. It takes 5 minutes.
+Then our 5-Day Express Solution sets up your BIR compliance in Odoo in five
+working days, run as one sprint with our NextSprint method: Agile + Lean +
+Six Sigma. On the call we share the blueprint for your business.
+
+Book my 5-minute coffee call:
+https://technext.odoo.com/book/c82cf8a9
+Email or phone is all we need. We call you right away, Monday to Sunday, 8
+AM to 11 PM.
+
+5-DAY EXPRESS SOLUTION - 5 days. Not 5 months.
+Your sprint, day by day:
+- Before Day 1: Coffee call (5 minutes) and we map your processes
+- Day 1: Set up in Odoo
+- Day 2: BIR settings
+- Day 3: Load your data
+- Day 4: Test
+- Day 5: Hand-over
+Five working days for the Odoo set-up. Permits and registrations stay with
+you and the BIR.
+
+---
+
+Is your accounting system registered with the BIR?
+
 If you are not sure, that is the first thing to check. The BIR registers
 your business's use of a system, at your Revenue District Office (RDO). It
 does not register a software brand.
-
-Book my 5-Day Express:
-https://technext.odoo.com/book/c82cf8a9
-
-How BIR CAS set-up works:
-https://technext.asia/bir-cas
-
----
 
 What a CAS is
 A Computerized Accounting System (CAS) records your transactions, generates
@@ -45,18 +62,6 @@ What TechNext does: Six steps from "is it registered?" to your filing
   Issue and EIS Certification. We prepare the Odoo outputs and assess the
   EIS connection separately.
 
-5-DAY EXPRESS SOLUTION - 5 days. Not 5 months.
-We run your BIR compliance set-up in Odoo as one sprint, with our NextSprint
-method: Agile + Lean + Six Sigma.
-- Before Day 1: Coffee call (5 minutes) and we map your processes
-- Day 1: Set up in Odoo
-- Day 2: BIR settings
-- Day 3: Load your data
-- Day 4: Test
-- Day 5: Hand-over
-Five working days for the Odoo set-up. Permits and registrations stay with
-you and the BIR.
-
 Who does what:
 - Set up: By TechNext, in Odoo
 - Samples: Printed with you
@@ -73,14 +78,14 @@ Tell us how you invoice and keep your books today. An adviser will say what
 a CAS registration would involve for you, what Odoo covers, and what you
 file at your RDO.
 
-Book my 5-Day Express:
+Book my 5-minute coffee call:
 https://technext.odoo.com/book/c82cf8a9
-
-How BIR CAS set-up works:
-https://technext.asia/bir-cas
 
 Email or phone is all we need. We call you right away, Monday to Sunday, 8
 AM to 11 PM.
+
+Want to read first? How BIR CAS set-up works:
+https://technext.asia/bir-cas
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.

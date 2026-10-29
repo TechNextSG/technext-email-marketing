@@ -6,16 +6,33 @@ BIR compliance · 5-Day Express - Philippines
 
 Was your software sold as "BIR-accredited"?
 
-Be careful with that claim. The BIR registers your business's use of a
-system. It does not approve software brands, and it has said so in public.
+Come have a coffee with us. It takes 5 minutes.
+Then our 5-Day Express Solution sets up your BIR compliance in Odoo in five
+working days, run as one sprint with our NextSprint method: Agile + Lean +
+Six Sigma. On the call we share the blueprint for your business.
 
-Book my 5-Day Express:
+Book my 5-minute coffee call:
 https://technext.odoo.com/book/c82cf8a9
+Email or phone is all we need. We call you right away, Monday to Sunday, 8
+AM to 11 PM.
 
-BIR rules for your accounting system:
-https://technext.asia/blog/bir-rules-for-your-accounting-system
+5-DAY EXPRESS SOLUTION - 5 days. Not 5 months.
+Your sprint, day by day:
+- Before Day 1: Coffee call (5 minutes) and we map your processes
+- Day 1: Set up in Odoo
+- Day 2: BIR settings
+- Day 3: Load your data
+- Day 4: Test
+- Day 5: Hand-over
+Five working days for the Odoo set-up. Permits and registrations stay with
+you and the BIR.
 
 ---
+
+Was your software sold as "BIR-accredited"?
+
+Be careful with that claim. The BIR registers your business's use of a
+system. It does not approve software brands, and it has said so in public.
 
 The short answer
 No software is BIR-accredited:
@@ -47,18 +64,6 @@ What TechNext does: Odoo set up for BIR requirements, with you
   accredited by or acting for the BIR, and we do not file or register on
   your behalf.
 
-5-DAY EXPRESS SOLUTION - 5 days. Not 5 months.
-We run your BIR compliance set-up in Odoo as one sprint, with our NextSprint
-method: Agile + Lean + Six Sigma.
-- Before Day 1: Coffee call (5 minutes) and we map your processes
-- Day 1: Set up in Odoo
-- Day 2: BIR settings
-- Day 3: Load your data
-- Day 4: Test
-- Day 5: Hand-over
-Five working days for the Odoo set-up. Permits and registrations stay with
-you and the BIR.
-
 Who does what:
 - Set up: By TechNext, in Odoo
 - Samples: Printed with you
@@ -74,14 +79,14 @@ Skip the claims. Start your 5-Day Express.
 An adviser can walk you through what the BIR actually registers, and what
 your own registration would need.
 
-Book my 5-Day Express:
+Book my 5-minute coffee call:
 https://technext.odoo.com/book/c82cf8a9
-
-BIR rules for your accounting system:
-https://technext.asia/blog/bir-rules-for-your-accounting-system
 
 Email or phone is all we need. We call you right away, Monday to Sunday, 8
 AM to 11 PM.
+
+Want to read first? BIR rules for your accounting system:
+https://technext.asia/blog/bir-rules-for-your-accounting-system
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.
