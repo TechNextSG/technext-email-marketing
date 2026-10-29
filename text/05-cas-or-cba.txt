@@ -2,7 +2,7 @@ E-invoicing is due by 31 December 2026 for covered taxpayers, including
 businesses on a CAS or CBA with invoicing software.
 https://technext.asia/bir-e-invoicing
 
-BIR CAS in plain words - Philippines
+BIR compliance · 5-Day Express - Philippines
 
 CAS or CBA: which one does your business need?
 
@@ -10,8 +10,8 @@ It comes down to your invoices. RMO 9-2021 draws the line there: if your
 system issues them, it is a CAS. If invoices are issued by hand, the system
 counts as a CBA.
 
-Book a free adviser call:
-https://technext.asia/bir-adviser-call#book
+Book my 5-Day Express:
+https://technext.odoo.com/book/c82cf8a9
 
 Read the CAS and CBA guide:
 https://technext.asia/blog/register-odoo-cas-cba-bir
@@ -48,6 +48,18 @@ out these four things with you:
   system has a major enhancement.
 - E-invoicing. Whether it applies to you now, checked with your accountant.
 
+5-DAY EXPRESS SOLUTION - 5 days. Not 5 months.
+We run your BIR compliance set-up in Odoo as one sprint, with our NextSprint
+method: Agile + Lean + Six Sigma.
+- Before Day 1: Coffee call (5 minutes) and we map your processes
+- Day 1: Set up in Odoo
+- Day 2: BIR settings
+- Day 3: Load your data
+- Day 4: Test
+- Day 5: Hand-over
+Five working days for the Odoo set-up. Permits and registrations stay with
+you and the BIR.
+
 Who does what:
 - Set up: By TechNext, in Odoo
 - Samples: Printed with you
@@ -59,18 +71,18 @@ countries
 
 ---
 
-Not sure which one you need? Ask us.
+CAS or CBA? Start your 5-Day Express.
 Tell us how you invoice and keep your books today. An adviser will say
 whether you need a CAS or a CBA, and what it takes to file.
 
-Book a free adviser call:
-https://technext.asia/bir-adviser-call#book
+Book my 5-Day Express:
+https://technext.odoo.com/book/c82cf8a9
 
 Read the CAS and CBA guide:
 https://technext.asia/blog/register-odoo-cas-cba-bir
 
-One short form. An adviser replies to book a call about your BIR needs and
-what Odoo covers.
+Email or phone is all we need. We call you right away, Monday to Sunday, 8
+AM to 11 PM.
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.

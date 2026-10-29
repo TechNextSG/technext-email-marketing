@@ -2,15 +2,15 @@ E-invoicing is due by 31 December 2026 for covered taxpayers, including
 businesses on a CAS or CBA with invoicing software.
 https://technext.asia/bir-e-invoicing
 
-BIR CAS in plain words - Philippines
+BIR compliance · 5-Day Express - Philippines
 
 What goes into a CAS application?
 
 Five items, listed in Annex A of RMC 5-2021. Every sample comes from the
 Odoo you will actually use, so what the RDO sees is what you run.
 
-Book a free adviser call:
-https://technext.asia/bir-adviser-call#book
+Book my 5-Day Express:
+https://technext.odoo.com/book/c82cf8a9
 
 Download sample BIR reports (PDF):
 https://technext.asia/assets/docs/technext-sample-bir-reports.pdf
@@ -42,6 +42,18 @@ What TechNext does: We prepare it with you. You file it.
 - You file. Your business files at its RDO, in person or by email. The
   decision is the BIR's.
 
+5-DAY EXPRESS SOLUTION - 5 days. Not 5 months.
+We run your BIR compliance set-up in Odoo as one sprint, with our NextSprint
+method: Agile + Lean + Six Sigma.
+- Before Day 1: Coffee call (5 minutes) and we map your processes
+- Day 1: Set up in Odoo
+- Day 2: BIR settings
+- Day 3: Load your data
+- Day 4: Test
+- Day 5: Hand-over
+Five working days for the Odoo set-up. Permits and registrations stay with
+you and the BIR.
+
 Who does what:
 - Set up: By TechNext, in Odoo
 - Samples: Printed with you
@@ -56,18 +68,18 @@ countries
 
 ---
 
-Planning to apply? Start with the samples.
+Planning to apply? Start your 5-Day Express.
 An adviser explains each item, what comes out of your Odoo, and what you
 prepare and file at your RDO.
 
-Book a free adviser call:
-https://technext.asia/bir-adviser-call#book
+Book my 5-Day Express:
+https://technext.odoo.com/book/c82cf8a9
 
 Download sample BIR reports (PDF):
 https://technext.asia/assets/docs/technext-sample-bir-reports.pdf
 
-One short form. An adviser replies to book a call about your BIR needs and
-what Odoo covers.
+Email or phone is all we need. We call you right away, Monday to Sunday, 8
+AM to 11 PM.
 
 Questions first? Reply to this email or write to sales@technext.asia. An
 adviser will answer.
