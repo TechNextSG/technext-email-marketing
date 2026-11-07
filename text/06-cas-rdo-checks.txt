@@ -1,31 +1,26 @@
-E-invoicing is due by 31 December 2026 for covered taxpayers, including
-businesses on a CAS or CBA with invoicing software.
-https://technext.asia/bir-e-invoicing
+CAS and CBA users register their 2026 computerised books online through ORUS
+by 30 January 2027 (calendar-year taxpayers). Don't wait for the deadline.
+https://technext.asia/bir-cas
 
-BIR compliance · 5-Day Express - Philippines
+BIR CAS · Odoo adviser - Philippines
 
 Would your system pass the RDO's checks?
 
-Come have a coffee with us. It takes 5 minutes.
-Then our 5-Day Express Solution sets up your BIR compliance in Odoo in five
-working days, run as one sprint with our NextSprint method: Agile + Lean +
-Six Sigma. On the call we share the blueprint for your business.
+Start your BIR CAS requirements today.
+Keep your current accounting software. We set up Odoo as a plug-in in your
+system for accounting and BIR CAS, and prepare your CAS papers with you. Our
+own experts, in Taguig City. A fixed, written quote before any work starts.
 
-Book my 5-minute coffee call:
+Set up a meeting:
 https://technext.odoo.com/book/c82cf8a9
-Email or phone is all we need. We call you right away, Monday to Sunday, 8
-AM to 11 PM.
+A 30-minute meeting with an Odoo adviser, at no charge. All we need is your
+email, mobile number and company name.
 
-5-DAY EXPRESS SOLUTION - 5 days. Not 5 months.
-Your sprint, day by day:
-- Before Day 1: Coffee call (5 minutes) and we map your processes
-- Day 1: Set up in Odoo
-- Day 2: BIR settings
-- Day 3: Load your data
-- Day 4: Test
-- Day 5: Hand-over
-Five working days for the Odoo set-up. Permits and registrations stay with
-you and the BIR.
+WHY CHOOSE TECHNEXT - Your ERP partner for BIR CAS.
+- Keep your current system. Odoo as a plug-in in your system. No system swap.
+- Start with Accounting only. Add more Odoo apps later, when you are ready.
+- Our own in-house team. One partner from set-up to support. No hand-off.
+- A fixed, written quote. Agreed before any work starts.
 
 ---
 
@@ -73,20 +68,20 @@ Who does what:
 - Filed: By you, at your RDO
 - AC: The RDO's decision
 
-142 ERP projects - 40+ years of excellence - 90+ enterprise clients - 25+
-countries
+142 ERP projects - 90+ enterprise clients - 25+ countries - 24+ years in
+ERP, our lead adviser
 
 ---
 
-Set up right before you file. Start your 5-Day Express.
+Set up right before you file. Start today.
 An adviser walks you through the Annex B requirements and what your Odoo
 set-up would need, before you apply.
 
-Book my 5-minute coffee call:
+Set up a meeting:
 https://technext.odoo.com/book/c82cf8a9
 
-Email or phone is all we need. We call you right away, Monday to Sunday, 8
-AM to 11 PM.
+A 30-minute meeting with an Odoo adviser, at no charge. All we need is your
+email, mobile number and company name.
 
 Want to read first? See the full CAS checklist:
 https://technext.asia/bir-cas
