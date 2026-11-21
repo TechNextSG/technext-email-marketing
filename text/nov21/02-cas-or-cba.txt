@@ -1,17 +1,23 @@
-One question decides it: does your system issue your invoices? The two options side by side.
+Our 5 Day Express BIR CAS Set-up*, as quick as 5 days. One question decides it: does your system issue your invoices? The two options side by side.
 
 BIR deadlines: E-invoicing by 31 Dec 2026 | 2026 books in ORUS by 30 Jan 2027
+
+5 DAY EXPRESS BIR CAS SET-UP*
 
 CAS OR CBA: WHICH ONE DOES YOUR BUSINESS NEED?
 
 It comes down to your invoices. RMO 9-2021 draws the line there: if your system issues them, it is a CAS. If invoices are issued by hand, the system counts as a CBA.
 
-Book a Technical Readiness Call: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_or_cba&utm_content=cta
-15 minutes with a TechNext adviser, at no charge. Your current system stays.
+With our 5 Day Express BIR CAS Set-up*, we set Odoo up for BIR CAS requirements as a plug-in to your current system, as quick as 5 days.
+
+Start my 5 Day Express: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_or_cba&utm_content=cta
+It starts with a 15-minute Technical Readiness Call with a BIR CAS adviser, at no charge. Your current system stays.
+
+Starting today | As quick as 5 days* | Your system stays
 
 Side by side The two options CAS Computerized Accounting SystemCBA Computerized Books of Accounts What it coversThe full cycle, from the transaction and the invoice to the financial reportsBooks of accounts only: journals, ledger, sales and purchase books, inventory book InvoicesSystem-generatedIssued manually Who must use itLarge taxpayers (RR 9-2009, restated in RMO 9-2021)Optional for non-large taxpayers, who may choose a CAS or a CBA Cloud set-upsRegistered too. Odoo Online or Odoo.sh needs a joint sworn statement with the provider that the system cannot suppress sales.
 
-WHAT TECHNEXT DOES
+INSIDE THE 5 DAY EXPRESS: WHAT TECHNEXT DOES
 - CAS or CBA: Which one fits how you invoice and keep your books today.
 - Head office and branches: Affiliates and branches register separately, even on a shared system.
 - Any old Permit to Use: A PTU stays valid unless it is revoked or the system has a major enhancement.
@@ -26,16 +32,17 @@ WHAT STAYS WITH YOU
 
 Want to read first? Read the CAS and CBA guide: https://technext.asia/blog/register-odoo-cas-cba-bir?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_or_cba&utm_content=read
 
-Not sure where you stand? Book a Technical Readiness Call (15 minutes): https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_or_cba&utm_content=cta
+Start your 5 Day Express BIR CAS Set-up*. It starts with a 15-minute Technical Readiness Call: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_or_cba&utm_content=cta
 Prefer email? Reply or write to sales@technext.asia.
 
 --
-TechNext - BIR CAS and e-invoicing set-up, with Odoo
+TechNext - 5 Day Express BIR CAS Set-up, with Odoo
 Singapore HQ: 261 Waterloo Street #03-36, Singapore 180261
 Philippines: Level 9, IP Center, Taguig City, Metro Manila 1634
 sales@technext.asia | technext.asia
 
 You are receiving this because your company is listed as a business contact in Metro Manila and the BIR's CAS rules may apply to it. Not relevant? Unsubscribe below and we will stop.
+*The 5 days cover the system set-up once your data is ready. Registration timing is set by your RDO, and filing stays with your business.
 TechNext is an Odoo Ready Partner. We are not affiliated with, accredited by or acting for the BIR or any government agency, and we do not file or register on your behalf. General guidance, not tax advice: confirm with your accountant or RDO.
 TECHNEXT PTE. LTD. (UEN 202699888G) · 261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
 

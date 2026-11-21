@@ -1,17 +1,23 @@
-No software is BIR-accredited. What to look for instead before you register.
+Our 5 Day Express BIR CAS Set-up*, as quick as 5 days. No software is BIR-accredited. What to look for instead before you register.
 
 BIR deadlines: E-invoicing by 31 Dec 2026 | 2026 books in ORUS by 30 Jan 2027
+
+5 DAY EXPRESS BIR CAS SET-UP*
 
 WAS YOUR SOFTWARE SOLD AS "BIR-ACCREDITED"?
 
 Be careful with that claim. The BIR registers your business's use of a system. It does not approve software brands, and it has said so in public.
 
-Book a Technical Readiness Call: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_bir_accredited&utm_content=cta
-15 minutes with a TechNext adviser, at no charge. Your current system stays.
+With our 5 Day Express BIR CAS Set-up*, we set Odoo up for BIR CAS requirements as a plug-in to your current system, as quick as 5 days.
+
+Start my 5 Day Express: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_bir_accredited&utm_content=cta
+It starts with a 15-minute Technical Readiness Call with a BIR CAS adviser, at no charge. Your current system stays.
+
+Starting today | As quick as 5 days* | Your system stays
 
 The short answer No software is BIR-accredited What the BIR registersYour business's use of a system. Not a software brand. 14 September 2026In a public advisory, the BIR said it has not accredited, certified or endorsed any e-invoicing service provider, and warned against claims such as "BIR-accredited". RMC 110-2026Dated 12 October 2026. It sets accreditation rules for e-invoicing service providers. No list had been published when we wrote this. What to ask instead ✓Does it meet the Annex B requirements: audit trail, posted entries voided and never edited, system-generated invoice numbers, user stamps, report headers, exports, unique user IDs, backups? ✓Can it produce the sample invoices, books, reports and audit trail your RDO asks for? ✓Will your business register its own use of the system at your RDO?
 
-WHAT TECHNEXT DOES
+INSIDE THE 5 DAY EXPRESS: WHAT TECHNEXT DOES
 - Set Odoo up for BIR requirements: Checked against Annex B for your configuration and hosting.
 - Prepare your samples with you: Invoices, books, reports and the audit trail printout.
 - Connect what you already use: Your current software stays; no system swap.
@@ -26,16 +32,17 @@ WHAT STAYS WITH YOU
 
 Want to read first? BIR rules for your accounting system: https://technext.asia/blog/bir-rules-for-your-accounting-system?utm_source=brevo&utm_medium=email&utm_campaign=ncr_bir_accredited&utm_content=read
 
-Not sure where you stand? Book a Technical Readiness Call (15 minutes): https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_bir_accredited&utm_content=cta
+Start your 5 Day Express BIR CAS Set-up*. It starts with a 15-minute Technical Readiness Call: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_bir_accredited&utm_content=cta
 Prefer email? Reply or write to sales@technext.asia.
 
 --
-TechNext - BIR CAS and e-invoicing set-up, with Odoo
+TechNext - 5 Day Express BIR CAS Set-up, with Odoo
 Singapore HQ: 261 Waterloo Street #03-36, Singapore 180261
 Philippines: Level 9, IP Center, Taguig City, Metro Manila 1634
 sales@technext.asia | technext.asia
 
 You are receiving this because your company is listed as a business contact in Metro Manila and the BIR's CAS rules may apply to it. Not relevant? Unsubscribe below and we will stop.
+*The 5 days cover the system set-up once your data is ready. Registration timing is set by your RDO, and filing stays with your business.
 TechNext is an Odoo Ready Partner. We are not affiliated with, accredited by or acting for the BIR or any government agency, and we do not file or register on your behalf. General guidance, not tax advice: confirm with your accountant or RDO.
 TECHNEXT PTE. LTD. (UEN 202699888G) · 261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
 
