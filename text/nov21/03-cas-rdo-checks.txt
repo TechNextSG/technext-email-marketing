@@ -1,0 +1,43 @@
+The RDO evaluates your system after it registers it, against Annex B of RMC 5-2021. See the checklist first.
+
+BIR deadlines: E-invoicing by 31 Dec 2026 | 2026 books in ORUS by 30 Jan 2027
+
+WOULD YOUR SYSTEM PASS THE RDO'S CHECKS?
+
+Worth knowing before you file. The RDO evaluates your system after registration, using the requirements in Annex B of RMC 5-2021. If it finds gaps, it can revoke the registration. So look at the list first.
+
+Book a Technical Readiness Call: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_rdo_checks&utm_content=cta
+15 minutes with a TechNext adviser, at no charge. Your current system stays.
+
+What the RDO looks at A sample of the requirements checklist CAS requirements checklist (sample) ✓Audit trail, printable and protected ✓Posted entries voided, never edited ✓System-generated invoice numbers ✓User stamp on every record ✓Report headers with TIN and branch code ✓CSV or DAT exports; 2306, 2307, 2316 ✓Unique user IDs and logged changes ✓Backups kept for ten years What Odoo 20 already has Audit trailLogs changes to accounting records Locked entriesPosted entries secured with a hash chain, plus irreversible hard lock dates Books and invoicesA Book of Accounts for CAS and CBA; Philippine invoices updated for BIR and CAS requirements Reports2307, SLSP, SAWT, QAP and the 2550Q summary, from the Philippine localisation Whether a set-up meets every item depends on its configuration and hosting. We review that with you before you apply; the RDO makes the evaluation.
+
+WHAT TECHNEXT DOES
+- Annex B, item by item: Checked against your configuration and hosting.
+- Invoice layout and series: Six running digits, your control number, "REPRINT" on copies.
+- Users and report headers: Roles, password rules, headers with TIN, branch code and software version.
+- Backups: A plan that keeps your records for ten years.
+
+WHAT STAYS WITH YOU
+- You file at your RDO: In person or by email. The decision is the BIR's.
+- You register your books in ORUS: Every year. We prepare the exports from Odoo.
+- Your accountant confirms coverage: Which rules apply to you and from when.
+
+142 projects delivered | 90+ enterprise clients | 25+ countries
+
+Want to read first? See the full CAS checklist: https://technext.asia/bir-cas?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_rdo_checks&utm_content=read
+
+Not sure where you stand? Book a Technical Readiness Call (15 minutes): https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_rdo_checks&utm_content=cta
+Prefer email? Reply or write to sales@technext.asia.
+
+--
+TechNext - BIR CAS and e-invoicing set-up, with Odoo
+Singapore HQ: 261 Waterloo Street #03-36, Singapore 180261
+Philippines: Level 9, IP Center, Taguig City, Metro Manila 1634
+sales@technext.asia | technext.asia
+
+You are receiving this because your company is listed as a business contact in Metro Manila and the BIR's CAS rules may apply to it. Not relevant? Unsubscribe below and we will stop.
+TechNext is an Odoo Ready Partner. We are not affiliated with, accredited by or acting for the BIR or any government agency, and we do not file or register on your behalf. General guidance, not tax advice: confirm with your accountant or RDO.
+TECHNEXT PTE. LTD. (UEN 202699888G) · 261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
+
+View in browser: {{ mirror }}
+Unsubscribe: {{ unsubscribe }}

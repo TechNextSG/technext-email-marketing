@@ -1,0 +1,43 @@
+Five items, from Annex A of RMC 5-2021. Every sample comes from the system you will actually run.
+
+BIR deadlines: E-invoicing by 31 Dec 2026 | 2026 books in ORUS by 30 Jan 2027
+
+WHAT GOES INTO A CAS APPLICATION?
+
+Five items, listed in Annex A of RMC 5-2021. Every sample should come from the system you will actually use, so what the RDO sees is what you run.
+
+Book a Technical Readiness Call: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_application&utm_content=cta
+15 minutes with a TechNext adviser, at no charge. Your current system stays.
+
+The application checklist The five items in Annex A 1 A sworn statement Or a joint sworn statement for a cloud or outsourced system, describing the system, your invoices and the reports it produces. 2 Sample invoices Printouts of your invoices and supplementary documents, as the system generates them. 3 Sample books and reports Your books of accounts and the other system reports. 4 An audit trail printout Printed from the system, showing who did what and when. 5 The signed requirements checklist The Annex B requirements. Ask your RDO for its current templates, as annex labels differ between issuances.
+
+WHAT TECHNEXT DOES
+- Samples from your Odoo: Invoices, books and reports printed from the system you will run.
+- Audit trail and system description: Prepared with you, with the sample printouts.
+- On call for the RDO: We answer the technical questions about the set-up.
+- Sample BIR reports: 2307, SLSP, QAP, SAWT and 2550Q layouts to show you the outputs.
+
+WHAT STAYS WITH YOU
+- You file at your RDO: In person or by email. The decision is the BIR's.
+- You register your books in ORUS: Every year. We prepare the exports from Odoo.
+- Your accountant confirms coverage: Which rules apply to you and from when.
+
+142 projects delivered | 90+ enterprise clients | 25+ countries
+
+Want to read first? Download sample BIR reports (PDF): https://technext.asia/assets/docs/technext-sample-bir-reports.pdf?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_application&utm_content=read
+
+Not sure where you stand? Book a Technical Readiness Call (15 minutes): https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_application&utm_content=cta
+Prefer email? Reply or write to sales@technext.asia.
+
+--
+TechNext - BIR CAS and e-invoicing set-up, with Odoo
+Singapore HQ: 261 Waterloo Street #03-36, Singapore 180261
+Philippines: Level 9, IP Center, Taguig City, Metro Manila 1634
+sales@technext.asia | technext.asia
+
+You are receiving this because your company is listed as a business contact in Metro Manila and the BIR's CAS rules may apply to it. Not relevant? Unsubscribe below and we will stop.
+TechNext is an Odoo Ready Partner. We are not affiliated with, accredited by or acting for the BIR or any government agency, and we do not file or register on your behalf. General guidance, not tax advice: confirm with your accountant or RDO.
+TECHNEXT PTE. LTD. (UEN 202699888G) · 261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
+
+View in browser: {{ mirror }}
+Unsubscribe: {{ unsubscribe }}
