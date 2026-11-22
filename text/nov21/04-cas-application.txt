@@ -15,7 +15,7 @@ It starts with a 15-minute Technical Readiness Call with a BIR CAS adviser, at n
 
 Starting today | As quick as 5 days* | Your system stays
 
-The application checklist The five items in Annex A 1 A sworn statement Or a joint sworn statement for a cloud or outsourced system, describing the system, your invoices and the reports it produces. 2 Sample invoices Printouts of your invoices and supplementary documents, as the system generates them. 3 Sample books and reports Your books of accounts and the other system reports. 4 An audit trail printout Printed from the system, showing who did what and when. 5 The signed requirements checklist The Annex B requirements. Ask your RDO for its current templates, as annex labels differ between issuances.
+The five items in Annex A 1 A sworn statement Or a joint sworn statement for a cloud or outsourced system, describing the system, your invoices and the reports it produces. 2 Sample invoices Printouts of your invoices and supplementary documents, as the system generates them. 3 Sample books and reports Your books of accounts and the other system reports. 4 An audit trail printout Printed from the system, showing who did what and when. 5 The signed requirements checklist The Annex B requirements. Ask your RDO for its current templates, as annex labels differ between issuances.
 
 INSIDE THE 5 DAY EXPRESS: WHAT TECHNEXT DOES
 - Samples from your Odoo: Invoices, books and reports printed from the system you will run.

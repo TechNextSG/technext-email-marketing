@@ -70,7 +70,6 @@ def offer_card():
                     f'<div style="{FB}font-size:13px;line-height:20px;color:{BODY};">{b}</div></td>' for a, b in pts)
     return (f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid {BLUE1};border-radius:14px;border-collapse:separate;background-color:#FFFFFF;" bgcolor="#FFFFFF">'
             f'<tr><td style="padding:20px 22px 16px 22px;">'
-            f'<div style="{FB}font-size:11px;line-height:15px;font-weight:600;letter-spacing:1.2px;text-transform:uppercase;color:{MUTED};padding-bottom:6px;">The offer</div>'
             f'<div class="h2" style="{FH}font-size:22px;line-height:29px;font-weight:800;color:{INK};">{OFFER_HL}</div>'
             f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>{cells}</tr></table>'
             f'</td></tr></table>')
@@ -204,7 +203,7 @@ E['01-cas-registered'] = dict(
           'It does not register a software brand, so buying &ldquo;registered&rdquo; software is not the same as being registered.'),
     win=('Odoo &middot; Accounting', [('Journal entries', 'Posted and locked', 'ok'), ('Audit trail', 'Every change logged', 'ok'),
                                        ('Invoice numbers', 'System-generated', 'ok'), ('Book of Accounts', 'CAS and CBA', 'blue')]),
-    body=lambda: eyebrow('At a glance') + h2('BIR CAS registration in four lines', 16) + facts([
+    body=lambda: h2('BIR CAS registration in four lines', 16) + facts([
         ('What a CAS is', 'A system that records your transactions, generates your invoices and produces your books of accounts and BIR reports.'),
         ('What you register', 'Your business&rsquo;s use of a system, at your own RDO. Head office and branches each count.'),
         ('Who decides', 'Your RDO, after it reviews your application.'),
@@ -223,7 +222,7 @@ E['02-cas-or-cba'] = dict(
           'If invoices are issued by hand, the system counts as a CBA.'),
     win=('Registration path', [('Invoices issued by the system', 'CAS', 'blue'), ('Invoices issued by hand', 'CBA', 'amb'),
                                ('Large taxpayer', 'CAS required', 'blue'), ('Odoo Online or Odoo.sh', 'Joint sworn statement', 'mut')]),
-    body=lambda: eyebrow('Side by side') + h2('The two options', 16) + compare(
+    body=lambda: h2('The two options', 16) + compare(
         ['CAS<br><span style="font-weight:500;font-size:12px;">Computerized Accounting System</span>', 'CBA<br><span style="font-weight:500;font-size:12px;">Computerized Books of Accounts</span>'],
         [('What it covers', 'The full cycle, from the transaction and the invoice to the financial reports', 'Books of accounts only: journals, ledger, sales and purchase books, inventory book'),
          ('Invoices', 'System-generated', 'Issued manually'),
@@ -243,7 +242,7 @@ E['03-cas-rdo-checks'] = dict(
           'If it finds gaps, it can revoke the registration. So look at the list first.'),
     win=('Annex B &middot; sample items', [('Audit trail', 'Printable, protected', 'ok'), ('Posted entries', 'Voided, never edited', 'ok'),
                                             ('Report headers', 'TIN + branch code', 'ok'), ('Backups', 'Kept 10 years', 'blue')]),
-    body=lambda: eyebrow('What the RDO looks at') + h2('A sample of the requirements checklist', 16) + checks(
+    body=lambda: h2('A sample of the requirements checklist', 16) + checks(
         ['Audit trail, printable and protected', 'Posted entries voided, never edited', 'System-generated invoice numbers', 'User stamp on every record',
          'Report headers with TIN and branch code', 'CSV or DAT exports; 2306, 2307, 2316', 'Unique user IDs and logged changes', 'Backups kept for ten years'],
         title='CAS requirements checklist (sample)')
@@ -267,7 +266,7 @@ E['04-cas-application'] = dict(
           'so what the RDO sees is what you run.'),
     win=('CAS application &middot; 5 items', [('Sworn statement', 'Drafted with you', 'blue'), ('Sample invoices', 'From Odoo', 'ok'),
                                               ('Books and reports', 'From Odoo', 'ok'), ('Audit trail printout', 'From Odoo', 'ok'), ('Signed checklist', 'Your RDO&rsquo;s template', 'amb')]),
-    body=lambda: eyebrow('The application checklist') + h2('The five items in Annex A', 18) + steps([
+    body=lambda: h2('The five items in Annex A', 18) + steps([
         ('A sworn statement', 'Or a joint sworn statement for a cloud or outsourced system, describing the system, your invoices and the reports it produces.'),
         ('Sample invoices', 'Printouts of your invoices and supplementary documents, as the system generates them.'),
         ('Sample books and reports', 'Your books of accounts and the other system reports.'),
@@ -287,7 +286,7 @@ E['05-bir-accredited'] = dict(
           'It does not approve software brands, and it has said so in public.'),
     win=('Claim check', [('&ldquo;BIR-accredited software&rdquo;', 'Not a BIR category', 'amb'), ('Your use of the system', 'Registered at your RDO', 'blue'),
                          ('Annex B requirements', 'Checked item by item', 'ok'), ('Samples for your RDO', 'From your own set-up', 'ok')]),
-    body=lambda: eyebrow('The short answer') + h2('No software is BIR-accredited', 16) + facts([
+    body=lambda: h2('No software is BIR-accredited', 16) + facts([
         ('What the BIR registers', 'Your business&rsquo;s use of a system. Not a software brand.'),
         ('14 September 2026', 'In a public advisory, the BIR said it has not accredited, certified or endorsed any e-invoicing service provider, and warned against claims such as &ldquo;BIR-accredited&rdquo;.'),
         ('RMC 110-2026', 'Dated 12 October 2026. It sets accreditation rules for e-invoicing service providers. No list had been published when we wrote this.')], 160)
@@ -353,7 +352,7 @@ def build(slug, d):
     o.append(f'<tr><td class="pad" bgcolor="{AMB05}" style="background-color:{AMB05};padding:12px 36px;border-bottom:1px solid #F1E3C4;{FB}font-size:13px;line-height:20px;color:{AMB};">'
              f'<span style="font-weight:700;letter-spacing:1px;text-transform:uppercase;font-size:11px;color:{AMB};padding-right:12px;">BIR deadlines</span>{chips}</td></tr>')
     # hero
-    o.append(row(eyebrow(f'5 Day Express &middot; BIR CAS Set-up')
+    o.append(row(eyebrow('5 Days BIR CAS Setup')
                  + f'<h1 class="h1" style="margin:0 0 16px 0;{FH}font-size:32px;line-height:40px;font-weight:800;letter-spacing:-.4px;color:{INK};mso-line-height-rule:exactly;">{d["h1"]}</h1>'
                  + p(d['lead'], 14, 16, 26)
                  + p(f'With our <b style="color:{INK};">{OFFER}*</b>, we set Odoo up for BIR CAS requirements as a plug-in to your current system, as quick as 5 days.', 22, 16, 26)
@@ -365,7 +364,7 @@ def build(slug, d):
     # topic body
     o.append(row(d['body'](), 40))
     # split
-    o.append(row(eyebrow('Inside the 5 Day Express') + h2('We set it up with you. You file.', 18) + split(d['we'], YOU), 40))
+    o.append(row(h2('We set it up with you. You file.', 18) + split(d['we'], YOU), 40))
     # proof
     cells = ''.join(f'<td width="33%" align="center" valign="top" style="padding:18px 6px;{"border-left:1px solid " + LINE + ";" if i else ""}">'
                     f'<div class="stat" style="{FH}font-size:28px;line-height:34px;font-weight:800;color:{BLUE};">{a}</div>'
@@ -377,7 +376,6 @@ def build(slug, d):
     # CTA band
     band = (f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="{BLUE}" style="background-color:{BLUE};background-image:linear-gradient(135deg,{BLUE} 0%,{BLUE7} 100%);border-radius:16px;border-collapse:separate;">'
             f'<tr><td style="padding:32px 30px;">'
-            + eyebrow('Not sure where you stand?', '#CFE0FF')
             + h2(f'Start your {OFFER}*', 10, 22, 29, '#FFFFFF')
             + p('It starts with a 15-minute Technical Readiness Call. A BIR CAS adviser goes through how you invoice and keep your books today, and plans your 5 Day Express around it. Your current system stays.', 20, 15, 24, '#E3ECFB')
             + button(CTA, book, light=True)

@@ -15,7 +15,7 @@ It starts with a 15-minute Technical Readiness Call with a BIR CAS adviser, at n
 
 Starting today | As quick as 5 days* | Your system stays
 
-Side by side The two options CAS Computerized Accounting SystemCBA Computerized Books of Accounts What it coversThe full cycle, from the transaction and the invoice to the financial reportsBooks of accounts only: journals, ledger, sales and purchase books, inventory book InvoicesSystem-generatedIssued manually Who must use itLarge taxpayers (RR 9-2009, restated in RMO 9-2021)Optional for non-large taxpayers, who may choose a CAS or a CBA Cloud set-upsRegistered too. Odoo Online or Odoo.sh needs a joint sworn statement with the provider that the system cannot suppress sales.
+The two options CAS Computerized Accounting SystemCBA Computerized Books of Accounts What it coversThe full cycle, from the transaction and the invoice to the financial reportsBooks of accounts only: journals, ledger, sales and purchase books, inventory book InvoicesSystem-generatedIssued manually Who must use itLarge taxpayers (RR 9-2009, restated in RMO 9-2021)Optional for non-large taxpayers, who may choose a CAS or a CBA Cloud set-upsRegistered too. Odoo Online or Odoo.sh needs a joint sworn statement with the provider that the system cannot suppress sales.
 
 INSIDE THE 5 DAY EXPRESS: WHAT TECHNEXT DOES
 - CAS or CBA: Which one fits how you invoice and keep your books today.
