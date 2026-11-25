@@ -1,6 +1,6 @@
 Our 5 Day Express BIR CAS Set-up*, as quick as 5 days. The BIR registers your business's use of a system at your RDO, not a software brand. Here is what that means for you.
 
-BIR deadlines: E-invoicing by 31 Dec 2026 | 2026 books in ORUS by 30 Jan 2027
+BIR EIS deadline: E-invoicing (EIS) by 31 Dec 2026
 
 5 DAY EXPRESS BIR CAS SET-UP*
 
@@ -15,7 +15,7 @@ It starts with a 15-minute Technical Readiness Call with a BIR CAS adviser, at n
 
 Starting today | As quick as 5 days* | Your system stays
 
-BIR CAS registration in four lines What a CAS isA system that records your transactions, generates your invoices and produces your books of accounts and BIR reports. What you registerYour business's use of a system, at your own RDO. Head office and branches each count. Who decidesYour RDO, after it reviews your application. Every yearComputerised books are registered online in ORUS. For 2026 books: by 30 January 2027 (calendar-year taxpayers).
+BIR CAS registration in four lines What a CAS isA system that records your transactions, generates your invoices and produces your books of accounts and BIR reports. What you registerYour business's use of a system, at your own RDO. Head office and branches each count. Who decidesYour RDO, after it reviews your application. Every yearComputerised books are registered online in ORUS every year.
 
 INSIDE THE 5 DAY EXPRESS: WHAT TECHNEXT DOES
 - Map your registration path: CAS or CBA, head office and branches, any old Permit to Use.

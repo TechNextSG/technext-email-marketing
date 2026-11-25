@@ -16,7 +16,7 @@ OFFICES = [('Singapore HQ', '261 Waterloo Street #03-36, Singapore 180261'),
            ('Philippines', 'Level 9, IP Center, Taguig City, Metro Manila 1634')]
 MAIL = 'sales@technext.asia'
 PROOF = [('142', 'projects delivered'), ('90+', 'enterprise clients'), ('25+', 'countries')]
-DEADLINES = [('E-invoicing', '31 Dec 2026'), ('2026 books in ORUS', '30 Jan 2027')]
+DEADLINES = [('E-invoicing (EIS)', '31 Dec 2026')]   # 25 Nov owner: 31 Dec is the only deadline; 26 Nov Jeric: it is the EIS (e-invoicing) deadline
 CTA = 'Start my 5 Day Express'
 CTA_NOTE = 'It starts with a 15-minute Technical Readiness Call with a BIR CAS adviser, at no charge. Your current system stays.'
 OFFER = '5 Day Express BIR CAS Set-up'
@@ -207,7 +207,7 @@ E['01-cas-registered'] = dict(
         ('What a CAS is', 'A system that records your transactions, generates your invoices and produces your books of accounts and BIR reports.'),
         ('What you register', 'Your business&rsquo;s use of a system, at your own RDO. Head office and branches each count.'),
         ('Who decides', 'Your RDO, after it reviews your application.'),
-        ('Every year', 'Computerised books are registered online in ORUS. For 2026 books: by 30 January 2027 (calendar-year taxpayers).')]),
+        ('Every year', 'Computerised books are registered online in ORUS every year.')]),
     we=[('Map your registration path', 'CAS or CBA, head office and branches, any old Permit to Use.'),
         ('Connect your current system', 'By API, daily batch or flat file. Your POS or accounting software stays.'),
         ('Set up Odoo for BIR requirements', 'Audit trail, locked entries, invoice series, user roles.'),
@@ -350,7 +350,7 @@ def build(slug, d):
     # deadline strip
     chips = ''.join(f'<span class="chip" style="display:inline-block;padding:0 14px 0 0;"><b style="color:{INK};">{a}</b> by <b style="color:#B4321F;">{b}</b></span>' for a, b in DEADLINES)
     o.append(f'<tr><td class="pad" bgcolor="{AMB05}" style="background-color:{AMB05};padding:12px 36px;border-bottom:1px solid #F1E3C4;{FB}font-size:13px;line-height:20px;color:{AMB};">'
-             f'<span style="font-weight:700;letter-spacing:1px;text-transform:uppercase;font-size:11px;color:{AMB};padding-right:12px;">BIR deadlines</span>{chips}</td></tr>')
+             f'<span style="font-weight:700;letter-spacing:1px;text-transform:uppercase;font-size:11px;color:{AMB};padding-right:12px;">BIR EIS deadline</span>{chips}</td></tr>')
     # hero
     o.append(row(eyebrow('5 Days BIR CAS Setup')
                  + f'<h1 class="h1" style="margin:0 0 16px 0;{FH}font-size:32px;line-height:40px;font-weight:800;letter-spacing:-.4px;color:{INK};mso-line-height-rule:exactly;">{d["h1"]}</h1>'
@@ -405,7 +405,7 @@ def text(d):
     camp = d['camp']
     book = plain(u(BOOK, 'cta', camp))
     body_txt = plain(re.sub(r'</(p|h2|tr|div)>', '\n', d['body']()))
-    t = [plain(d['pre']), '', 'BIR deadlines: ' + ' | '.join(f'{a} by {b}' for a, b in DEADLINES), '',
+    t = [plain(d['pre']), '', 'BIR EIS deadline: ' + ' | '.join(f'{a} by {b}' for a, b in DEADLINES), '',
          OFFER.upper() + '*', '', plain(d['h1']).upper(), '', plain(d['lead']), '', f'With our {OFFER}*, we set Odoo up for BIR CAS requirements as a plug-in to your current system, as quick as 5 days.', '', f'{CTA}: {book}', plain(CTA_NOTE), '',
          'Starting today | As quick as 5 days* | Your system stays', '', body_txt, '', 'INSIDE THE 5 DAY EXPRESS: WHAT TECHNEXT DOES'] + [f'- {plain(a)}: {plain(b)}' for a, b in d['we']] + \
         ['', 'WHAT STAYS WITH YOU'] + [f'- {plain(a)}: {plain(b)}' for a, b in YOU] + \
