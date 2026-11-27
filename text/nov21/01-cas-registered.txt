@@ -1,23 +1,23 @@
-Our 5 Day Express BIR CAS Set-up*, as quick as 5 days. The BIR registers your business's use of a system at your RDO, not a software brand. Here is what that means for you.
+Our 5 Days* BIR CAS Set-Up. The BIR registers your business's use of a system at your RDO, not a software brand. Here is what that means for you.
 
 BIR EIS deadline: E-invoicing (EIS) by 31 Dec 2026
 
-5 DAY EXPRESS BIR CAS SET-UP*
+5 DAYS* BIR CAS SET-UP
 
 IS YOUR ACCOUNTING SYSTEM REGISTERED WITH THE BIR?
 
 If you are not sure, start there. The BIR registers your business's use of a system at your Revenue District Office (RDO). It does not register a software brand, so buying "registered" software is not the same as being registered.
 
-With our 5 Day Express BIR CAS Set-up*, we set Odoo up for BIR CAS requirements as a plug-in to your current system, as quick as 5 days.
+With our 5 Days* BIR CAS Set-Up, we set Odoo up for BIR CAS requirements as a plug-in to your current system, as quick as 5 Days*.
 
-Start my 5 Day Express: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_registered&utm_content=cta
+Book My 5 Days* Set-Up: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_registered&utm_content=cta
 It starts with a 15-minute Technical Readiness Call with a BIR CAS adviser, at no charge. Your current system stays.
 
-Starting today | As quick as 5 days* | Your system stays
+Starting today | As quick as 5 Days* | Your system stays
 
 BIR CAS registration in four lines What a CAS isA system that records your transactions, generates your invoices and produces your books of accounts and BIR reports. What you registerYour business's use of a system, at your own RDO. Head office and branches each count. Who decidesYour RDO, after it reviews your application. Every yearComputerised books are registered online in ORUS every year.
 
-INSIDE THE 5 DAY EXPRESS: WHAT TECHNEXT DOES
+INSIDE THE 5 DAYS* SET-UP: WHAT TECHNEXT DOES
 - Map your registration path: CAS or CBA, head office and branches, any old Permit to Use.
 - Connect your current system: By API, daily batch or flat file. Your POS or accounting software stays.
 - Set up Odoo for BIR requirements: Audit trail, locked entries, invoice series, user roles.
@@ -32,17 +32,17 @@ WHAT STAYS WITH YOU
 
 Want to read first? How BIR CAS set-up works: https://technext.asia/bir-cas?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_registered&utm_content=read
 
-Start your 5 Day Express BIR CAS Set-up*. It starts with a 15-minute Technical Readiness Call: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_registered&utm_content=cta
+Start your 5 Days* BIR CAS Set-Up. It starts with a 15-minute Technical Readiness Call: https://technext.odoo.com/book/c82cf8a9?utm_source=brevo&utm_medium=email&utm_campaign=ncr_cas_registered&utm_content=cta
 Prefer email? Reply or write to sales@technext.asia.
 
 --
-TechNext - 5 Day Express BIR CAS Set-up, with Odoo
+TechNext - 5 Days* BIR CAS Set-Up, with Odoo
 Singapore HQ: 261 Waterloo Street #03-36, Singapore 180261
 Philippines: Level 9, IP Center, Taguig City, Metro Manila 1634
 sales@technext.asia | technext.asia
 
 You are receiving this because your company is listed as a business contact in Metro Manila and the BIR's CAS rules may apply to it. Not relevant? Unsubscribe below and we will stop.
-*The 5 days cover the system set-up once your data is ready. Registration timing is set by your RDO, and filing stays with your business.
+*5 Days covers the system set-up once your data is ready. Registration timing is set by your RDO, and filing stays with your business.
 TechNext is an Odoo Ready Partner. We are not affiliated with, accredited by or acting for the BIR or any government agency, and we do not file or register on your behalf. General guidance, not tax advice: confirm with your accountant or RDO.
 TECHNEXT PTE. LTD. (UEN 202699888G) · 261 Waterloo Street, #03-36, Waterloo Centre, Singapore 180261
 

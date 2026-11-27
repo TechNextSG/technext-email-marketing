@@ -17,10 +17,10 @@ OFFICES = [('Singapore HQ', '261 Waterloo Street #03-36, Singapore 180261'),
 MAIL = 'sales@technext.asia'
 PROOF = [('142', 'projects delivered'), ('90+', 'enterprise clients'), ('25+', 'countries')]
 DEADLINES = [('E-invoicing (EIS)', '31 Dec 2026')]   # 25 Nov owner: 31 Dec is the only deadline; 26 Nov Jeric: it is the EIS (e-invoicing) deadline
-CTA = 'Start my 5 Day Express'
+CTA = 'Book My 5 Days* Set-Up'
 CTA_NOTE = 'It starts with a 15-minute Technical Readiness Call with a BIR CAS adviser, at no charge. Your current system stays.'
-OFFER = '5 Day Express BIR CAS Set-up'
-STAR = ('*The 5 days cover the system set-up once your data is ready. Registration timing is set by your RDO, '
+OFFER = '5 Days* BIR CAS Set-Up'   # 26 Nov owner: always "5 Days*"
+STAR = ('*5 Days covers the system set-up once your data is ready. Registration timing is set by your RDO, '
         'and filing stays with your business.')
 DISCLAIMER = ('TechNext is an Odoo Ready Partner. We are not affiliated with, accredited by or acting for the BIR or any government agency, '
               'and we do not file or register on your behalf. General guidance, not tax advice: confirm with your accountant or RDO.')
@@ -57,13 +57,13 @@ def hl(t):  # blue highlight phrase, like .hl on the site
     return f'<span style="color:{BLUE};">{t}</span>'
 
 
-OFFER_HL = f'{hl("5 Day")} Express {hl("BIR CAS")} Set-up*'
+OFFER_HL = f'{hl("5 Days*")} {hl("BIR CAS")} Set-Up'
 
 
 def offer_card():
-    """5 Day Express offer strip under the hero: speed + topic, no day-by-day breakdown (Sky 10 Nov)."""
+    """5 Days* offer strip under the hero: speed + topic, no day-by-day breakdown (Sky 10 Nov)."""
     pts = [('Starting today', 'Book a slot this week. We plan your sprint on the call.'),
-           ('As quick as 5 days*', 'Your BIR CAS set-up in Odoo, run as one short sprint.'),
+           ('As quick as 5 Days*', 'Your BIR CAS set-up in Odoo, run as one short sprint.'),
            ('Your system stays', 'Odoo plugs in to your current accounting software or POS.')]
     cells = ''.join(f'<td class="stack" width="33%" valign="top" style="padding:14px 14px 4px 0;">'
                     f'<div style="{FH}font-size:15px;line-height:20px;font-weight:800;color:{BLUE7};padding-bottom:4px;">{a}</div>'
@@ -196,8 +196,8 @@ YOU = [('You file at your RDO', 'In person or by email. The decision is the BIR&
 # ---------------------------------------------------------------- the five emails
 E = {}
 E['01-cas-registered'] = dict(
-    n=39, camp='ncr_cas_registered', subject='5 Day Express BIR CAS Set-up: is your system registered?',
-    pre='Our 5 Day Express BIR CAS Set-up*, as quick as 5 days. The BIR registers your business&rsquo;s use of a system at your RDO, not a software brand. Here is what that means for you.',
+    n=39, camp='ncr_cas_registered', subject='5 Days* BIR CAS Set-Up: is your system registered?',
+    pre='Our 5 Days* BIR CAS Set-Up. The BIR registers your business&rsquo;s use of a system at your RDO, not a software brand. Here is what that means for you.',
     h1=f'Is your accounting system {hl("registered with the BIR")}?',
     lead=('If you are not sure, start there. The BIR registers your business&rsquo;s <b>use</b> of a system at your Revenue District Office (RDO). '
           'It does not register a software brand, so buying &ldquo;registered&rdquo; software is not the same as being registered.'),
@@ -215,8 +215,8 @@ E['01-cas-registered'] = dict(
     read=('How BIR CAS set-up works', '/bir-cas'))
 
 E['02-cas-or-cba'] = dict(
-    n=40, camp='ncr_cas_or_cba', subject='5 Day Express BIR CAS Set-up: CAS or CBA for your business?',
-    pre='Our 5 Day Express BIR CAS Set-up*, as quick as 5 days. One question decides it: does your system issue your invoices? The two options side by side.',
+    n=40, camp='ncr_cas_or_cba', subject='5 Days* BIR CAS Set-Up: CAS or CBA for your business?',
+    pre='Our 5 Days* BIR CAS Set-Up. One question decides it: does your system issue your invoices? The two options side by side.',
     h1=f'CAS or CBA: {hl("which one")} does your business need?',
     lead=('It comes down to your invoices. RMO 9-2021 draws the line there: if your system issues them, it is a CAS. '
           'If invoices are issued by hand, the system counts as a CBA.'),
@@ -235,8 +235,8 @@ E['02-cas-or-cba'] = dict(
     read=('Read the CAS and CBA guide', '/blog/register-odoo-cas-cba-bir'))
 
 E['03-cas-rdo-checks'] = dict(
-    n=41, camp='ncr_cas_rdo_checks', subject='5 Day Express BIR CAS Set-up: would you pass the RDO’s checks?',
-    pre='Our 5 Day Express BIR CAS Set-up*, as quick as 5 days. The RDO evaluates your system after it registers it, against Annex B of RMC 5-2021. See the checklist first.',
+    n=41, camp='ncr_cas_rdo_checks', subject='5 Days* BIR CAS Set-Up: would you pass the RDO’s checks?',
+    pre='Our 5 Days* BIR CAS Set-Up. The RDO evaluates your system after it registers it, against Annex B of RMC 5-2021. See the checklist first.',
     h1=f'Would your system {hl("pass the RDO&rsquo;s checks")}?',
     lead=('Worth knowing before you file. The RDO evaluates your system <b>after</b> registration, using the requirements in Annex B of RMC 5-2021. '
           'If it finds gaps, it can revoke the registration. So look at the list first.'),
@@ -259,8 +259,8 @@ E['03-cas-rdo-checks'] = dict(
     read=('See the full CAS checklist', '/bir-cas'))
 
 E['04-cas-application'] = dict(
-    n=42, camp='ncr_cas_application', subject='5 Day Express BIR CAS Set-up: what goes into your application?',
-    pre='Our 5 Day Express BIR CAS Set-up*, as quick as 5 days. Five items, from Annex A of RMC 5-2021. Every sample comes from the system you will actually run.',
+    n=42, camp='ncr_cas_application', subject='5 Days* BIR CAS Set-Up: what goes into your application?',
+    pre='Our 5 Days* BIR CAS Set-Up. Five items, from Annex A of RMC 5-2021. Every sample comes from the system you will actually run.',
     h1=f'What goes into a {hl("CAS application")}?',
     lead=('Five items, listed in Annex A of RMC 5-2021. Every sample should come from the system you will actually use, '
           'so what the RDO sees is what you run.'),
@@ -279,8 +279,8 @@ E['04-cas-application'] = dict(
     read=('Download sample BIR reports (PDF)', '/assets/docs/technext-sample-bir-reports.pdf'))
 
 E['05-bir-accredited'] = dict(
-    n=43, camp='ncr_bir_accredited', subject='5 Day Express BIR CAS Set-up: is your software really “BIR-accredited”?',
-    pre='Our 5 Day Express BIR CAS Set-up*, as quick as 5 days. No software is BIR-accredited. What to look for instead before you register.',
+    n=43, camp='ncr_bir_accredited', subject='5 Days* BIR CAS Set-Up: is your software really “BIR-accredited”?',
+    pre='Our 5 Days* BIR CAS Set-Up. No software is BIR-accredited. What to look for instead before you register.',
     h1=f'Was your software sold as {hl("&ldquo;BIR&#8209;accredited&rdquo;")}?',
     lead=('Be careful with that claim. The BIR registers your business&rsquo;s use of a system. '
           'It does not approve software brands, and it has said so in public.'),
@@ -352,10 +352,10 @@ def build(slug, d):
     o.append(f'<tr><td class="pad" bgcolor="{AMB05}" style="background-color:{AMB05};padding:12px 36px;border-bottom:1px solid #F1E3C4;{FB}font-size:13px;line-height:20px;color:{AMB};">'
              f'<span style="font-weight:700;letter-spacing:1px;text-transform:uppercase;font-size:11px;color:{AMB};padding-right:12px;">BIR EIS deadline</span>{chips}</td></tr>')
     # hero
-    o.append(row(eyebrow('5 Days BIR CAS Setup')
+    o.append(row(eyebrow('5 Days* BIR CAS Set-Up')
                  + f'<h1 class="h1" style="margin:0 0 16px 0;{FH}font-size:32px;line-height:40px;font-weight:800;letter-spacing:-.4px;color:{INK};mso-line-height-rule:exactly;">{d["h1"]}</h1>'
                  + p(d['lead'], 14, 16, 26)
-                 + p(f'With our <b style="color:{INK};">{OFFER}*</b>, we set Odoo up for BIR CAS requirements as a plug-in to your current system, as quick as 5 days.', 22, 16, 26)
+                 + p(f'With our <b style="color:{INK};">{OFFER}</b>, we set Odoo up for BIR CAS requirements as a plug-in to your current system, as quick as 5 Days*.', 22, 16, 26)
                  + button(CTA, book)
                  + p(CTA_NOTE, 0, 13, 20, MUTED).replace('margin:0 0 0px', 'margin:12px 0 0'), 38, BLUE05.replace('#EAF0FB', '#F5F8FD'), 34))
     # sample window
@@ -376,8 +376,8 @@ def build(slug, d):
     # CTA band
     band = (f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="{BLUE}" style="background-color:{BLUE};background-image:linear-gradient(135deg,{BLUE} 0%,{BLUE7} 100%);border-radius:16px;border-collapse:separate;">'
             f'<tr><td style="padding:32px 30px;">'
-            + h2(f'Start your {OFFER}*', 10, 22, 29, '#FFFFFF')
-            + p('It starts with a 15-minute Technical Readiness Call. A BIR CAS adviser goes through how you invoice and keep your books today, and plans your 5 Day Express around it. Your current system stays.', 20, 15, 24, '#E3ECFB')
+            + h2(f'Start your {OFFER}', 10, 22, 29, '#FFFFFF')
+            + p('It starts with a 15-minute Technical Readiness Call. A BIR CAS adviser goes through how you invoice and keep your books today, and plans your 5 Days* Set-Up around it. Your current system stays.', 20, 15, 24, '#E3ECFB')
             + button(CTA, book, light=True)
             + p(f'Prefer email? Reply to this message or write to <a class="lnk" href="mailto:{MAIL}" style="color:#FFFFFF;font-weight:600;">{MAIL}</a>.', 0, 13, 20, '#CFE0FF').replace('margin:0 0 0px', 'margin:14px 0 0')
             + '</td></tr></table>')
@@ -406,11 +406,11 @@ def text(d):
     book = plain(u(BOOK, 'cta', camp))
     body_txt = plain(re.sub(r'</(p|h2|tr|div)>', '\n', d['body']()))
     t = [plain(d['pre']), '', 'BIR EIS deadline: ' + ' | '.join(f'{a} by {b}' for a, b in DEADLINES), '',
-         OFFER.upper() + '*', '', plain(d['h1']).upper(), '', plain(d['lead']), '', f'With our {OFFER}*, we set Odoo up for BIR CAS requirements as a plug-in to your current system, as quick as 5 days.', '', f'{CTA}: {book}', plain(CTA_NOTE), '',
-         'Starting today | As quick as 5 days* | Your system stays', '', body_txt, '', 'INSIDE THE 5 DAY EXPRESS: WHAT TECHNEXT DOES'] + [f'- {plain(a)}: {plain(b)}' for a, b in d['we']] + \
+         OFFER.upper(), '', plain(d['h1']).upper(), '', plain(d['lead']), '', f'With our {OFFER}, we set Odoo up for BIR CAS requirements as a plug-in to your current system, as quick as 5 Days*.', '', f'{CTA}: {book}', plain(CTA_NOTE), '',
+         'Starting today | As quick as 5 Days* | Your system stays', '', body_txt, '', 'INSIDE THE 5 DAYS* SET-UP: WHAT TECHNEXT DOES'] + [f'- {plain(a)}: {plain(b)}' for a, b in d['we']] + \
         ['', 'WHAT STAYS WITH YOU'] + [f'- {plain(a)}: {plain(b)}' for a, b in YOU] + \
         ['', ' | '.join(f'{a} {b}' for a, b in PROOF), '', f'Want to read first? {plain(d["read"][0])}: {plain(u(d["read"][1], "read", camp))}', '',
-         f'Start your {OFFER}*. It starts with a 15-minute Technical Readiness Call: {book}', f'Prefer email? Reply or write to {MAIL}.', '', '--',
+         f'Start your {OFFER}. It starts with a 15-minute Technical Readiness Call: {book}', f'Prefer email? Reply or write to {MAIL}.', '', '--',
          f'TechNext - {OFFER}, with Odoo'] + [f'{a}: {b}' for a, b in OFFICES] + \
         [MAIL + ' | technext.asia', '', plain(WHY_YOU), plain(STAR), plain(DISCLAIMER), plain(LEGAL), '', 'View in browser: {{ mirror }}', 'Unsubscribe: {{ unsubscribe }}']
     out = '\n'.join(t)
@@ -431,7 +431,7 @@ if __name__ == '__main__':
         for pat in BANNED:
             for m in re.finditer(pat, vis, re.I):
                 bad += 1; print(f'  BANNED {slug}: {pat!r} -> ...{vis[max(0, m.start() - 40):m.end() + 40]}...')
-        n5 = len(__import__('re').findall(r'5 Day Express', vis)); nt = t.count('5 Day Express')
-        if n5 < 5 or nt < 5 or '5 Day Express' not in d['subject']: bad += 1; print(f'  LOW 5 DAY EXPRESS {slug}: html {n5}, text {nt}')
-        print(f'{slug}: html {len(h.encode()) // 1024} KB, text {len(t)} chars, 5 Day Express x{n5} (text x{nt}) | {d["subject"]}')
+        n5 = len(__import__('re').findall(r'5 Days\*', vis)); nt = t.count('5 Days*')
+        if n5 < 5 or nt < 5 or '5 Days*' not in d['subject']: bad += 1; print(f'  LOW 5 DAYS* {slug}: html {n5}, text {nt}')
+        print(f'{slug}: html {len(h.encode()) // 1024} KB, text {len(t)} chars, 5 Days* x{n5} (text x{nt}) | {d["subject"]}')
     print('banned hits:', bad)
